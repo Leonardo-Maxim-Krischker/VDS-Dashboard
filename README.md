@@ -83,6 +83,8 @@ This project is designed to be hosted for free on GitHub Pages.
 
 This project is for educational purposes.
 
-```
+---
 
-```
+## 📝 AI Usage
+
+This README.md file has been created using AI.
