@@ -1,0 +1,2001 @@
+Model,Year,Region,Color,Fuel_Type,Transmission,Engine_Size_L,Mileage_KM,Price_USD,Sales_Volume,Sales_Classification
+M5,2024,Africa,Red,Hybrid,Manual,4,58149,78986,7464,High
+5 Series,2022,Europe,Black,Petrol,Automatic,1.6,132258,103829,4745,Low
+i8,2018,Middle East,White,Petrol,Automatic,4.1,180684,71402,327,Low
+M3,2016,Middle East,White,Electric,Manual,1.9,24580,58836,191,Low
+X6,2013,North America,Grey,Hybrid,Automatic,2.3,92773,53215,3425,Low
+X5,2013,South America,Silver,Electric,Manual,4.3,167609,105480,6457,Low
+M3,2024,North America,Silver,Electric,Manual,1.9,48462,49614,1748,Low
+M5,2012,North America,Blue,Electric,Manual,4.4,88244,112422,901,Low
+X3,2016,Middle East,Red,Hybrid,Automatic,2,187686,74680,703,Low
+X6,2010,Africa,Grey,Petrol,Automatic,2.2,108902,34870,2064,Low
+X1,2023,Asia,Grey,Petrol,Automatic,4,60517,116077,5625,Low
+M5,2019,Middle East,Red,Hybrid,Manual,5,622,119300,1721,Low
+X6,2010,Europe,Blue,Petrol,Automatic,4.8,155685,58771,3429,Low
+M3,2020,Asia,Grey,Diesel,Manual,2.6,143993,109265,8027,High
+i8,2015,Europe,White,Diesel,Manual,3.1,153622,44554,2134,Low
+5 Series,2011,South America,Red,Diesel,Manual,4.4,40831,36221,5876,Low
+M3,2014,Asia,Grey,Hybrid,Manual,4.9,138174,114450,5854,Low
+X5,2012,Asia,White,Hybrid,Automatic,2.4,197087,117486,7165,High
+X5,2014,Europe,Red,Electric,Manual,2.8,18929,30886,3429,Low
+i8,2013,Africa,Blue,Hybrid,Automatic,3.6,66031,69910,4326,Low
+X3,2024,North America,Silver,Diesel,Automatic,4.3,8308,76007,8573,High
+i3,2024,Asia,Blue,Hybrid,Automatic,3.4,741,108646,5966,Low
+M3,2021,Africa,Red,Petrol,Automatic,4,14057,118070,8877,High
+5 Series,2010,South America,Silver,Hybrid,Automatic,1.8,34385,38876,8750,High
+X1,2014,Middle East,Black,Electric,Automatic,3.6,76659,109657,9515,High
+X1,2018,Asia,Red,Diesel,Manual,3.8,22222,64933,1394,Low
+M3,2023,South America,Black,Diesel,Manual,4.8,4164,57059,5105,Low
+5 Series,2023,Africa,Red,Electric,Automatic,4.6,148542,56132,1484,Low
+i3,2016,South America,Red,Electric,Automatic,4.3,360,36417,7913,High
+X3,2024,Asia,Black,Hybrid,Automatic,1.8,94087,118406,238,Low
+7 Series,2011,Europe,Black,Electric,Manual,2.1,55091,62444,6668,Low
+X1,2018,Europe,Blue,Hybrid,Automatic,4.1,41613,59674,2512,Low
+i8,2013,North America,White,Hybrid,Manual,4.7,147394,51710,4702,Low
+M3,2010,South America,Silver,Petrol,Manual,2.4,185946,96328,7814,High
+X1,2016,Asia,Black,Petrol,Automatic,2.4,114847,53269,8973,High
+3 Series,2023,Asia,White,Hybrid,Manual,1.9,140260,51104,9092,High
+X1,2010,Asia,Silver,Electric,Manual,4.4,96713,103020,1543,Low
+M3,2024,North America,Red,Hybrid,Automatic,3.1,128672,59229,1386,Low
+X6,2019,Asia,Grey,Diesel,Automatic,4.1,80677,113469,388,Low
+M5,2015,North America,Blue,Hybrid,Automatic,3.9,14852,78109,4447,Low
+i3,2019,South America,Blue,Electric,Manual,3.1,83433,35600,6978,Low
+X1,2022,South America,Silver,Electric,Automatic,1.7,132804,48273,9713,High
+X5,2020,Asia,Silver,Diesel,Automatic,2.3,46781,46987,4784,Low
+M3,2021,South America,White,Electric,Manual,3.3,155074,81955,3376,Low
+X6,2021,Middle East,White,Electric,Automatic,3.7,79046,102690,6995,Low
+7 Series,2018,North America,Blue,Diesel,Automatic,3.1,88022,43926,6562,Low
+M3,2017,South America,Grey,Petrol,Automatic,4.5,141388,67106,4292,Low
+M5,2021,Asia,Blue,Petrol,Manual,2.3,160149,99226,6532,Low
+7 Series,2024,Europe,Grey,Petrol,Manual,1.7,50816,53417,1517,Low
+X6,2020,Middle East,White,Hybrid,Manual,3.6,171890,31573,6898,Low
+3 Series,2013,Middle East,Grey,Petrol,Automatic,3.8,128385,81525,1146,Low
+i8,2019,Asia,Grey,Hybrid,Automatic,4.6,153519,104865,4789,Low
+X5,2014,Middle East,Blue,Diesel,Manual,3.2,180103,102075,9892,High
+X5,2017,North America,White,Hybrid,Automatic,2.5,155862,102472,9771,High
+X1,2015,South America,Black,Diesel,Automatic,4.3,43607,64470,4820,Low
+X6,2017,Asia,Blue,Hybrid,Manual,2.8,175779,94821,482,Low
+X5,2014,Europe,Grey,Hybrid,Manual,1.9,26141,96848,7707,High
+X3,2010,Middle East,Blue,Hybrid,Automatic,3.5,158583,106332,8354,High
+7 Series,2010,Europe,White,Diesel,Automatic,4.8,155416,44718,968,Low
+M5,2011,South America,Red,Electric,Manual,2.6,167302,66233,1904,Low
+5 Series,2022,South America,Blue,Electric,Automatic,3.1,69490,36653,5973,Low
+7 Series,2022,South America,Red,Petrol,Manual,4.1,23939,101146,2564,Low
+5 Series,2021,South America,Blue,Hybrid,Manual,5,73554,76224,7134,High
+i3,2012,Africa,Red,Petrol,Automatic,4.3,85570,66128,6694,Low
+7 Series,2023,Africa,Black,Electric,Manual,5,86600,48093,8196,High
+3 Series,2016,South America,Red,Petrol,Manual,2.3,149716,66629,3871,Low
+X6,2019,Europe,Blue,Hybrid,Manual,5,123789,57594,6022,Low
+5 Series,2014,South America,Red,Diesel,Manual,3.7,96512,65804,9804,High
+X3,2016,Europe,Silver,Hybrid,Manual,4.1,139992,90949,8085,High
+M3,2018,Africa,Silver,Electric,Automatic,3.9,36265,42802,4391,Low
+X6,2021,Europe,Blue,Diesel,Manual,4.1,163317,89874,5968,Low
+M3,2015,South America,Silver,Hybrid,Manual,2.4,124478,106912,4157,Low
+X1,2022,Middle East,White,Hybrid,Automatic,2.2,189835,71763,9956,High
+X1,2018,Africa,Silver,Petrol,Automatic,2.6,40373,119281,3816,Low
+5 Series,2010,South America,Red,Electric,Automatic,4,9951,39129,8440,High
+X6,2020,Africa,Grey,Hybrid,Automatic,2.6,51728,106992,5982,Low
+X3,2020,Middle East,Red,Hybrid,Automatic,3.6,115965,53272,8645,High
+M5,2024,North America,Blue,Petrol,Manual,2.7,153046,68158,4431,Low
+M5,2016,North America,Blue,Diesel,Manual,2.2,13260,115180,2841,Low
+X1,2014,Africa,Silver,Diesel,Automatic,4.6,190471,89457,4685,Low
+X3,2017,Middle East,Black,Hybrid,Manual,3.2,11756,76966,9107,High
+M3,2016,South America,Grey,Electric,Automatic,3,102675,93915,9470,High
+M5,2011,Africa,Blue,Diesel,Manual,2.5,60717,55781,2293,Low
+7 Series,2024,Asia,Red,Petrol,Manual,1.6,115889,67344,2081,Low
+7 Series,2024,Africa,Black,Petrol,Manual,2.8,196768,59078,9262,High
+X1,2019,South America,Red,Electric,Automatic,3.8,174578,48639,5843,Low
+X6,2016,Africa,Silver,Petrol,Manual,2.7,64862,65695,5033,Low
+7 Series,2016,Europe,Grey,Hybrid,Manual,3.1,47512,33527,7799,High
+i8,2017,Europe,Black,Hybrid,Automatic,4.6,67893,33685,9450,High
+5 Series,2023,South America,Black,Diesel,Manual,2.5,154005,92804,3173,Low
+5 Series,2018,Africa,White,Diesel,Manual,4.3,120725,95063,8010,High
+5 Series,2021,Africa,White,Electric,Automatic,5,107866,46932,1472,Low
+i3,2024,Middle East,Red,Diesel,Manual,4.1,58396,85549,8814,High
+i8,2019,Asia,Silver,Diesel,Automatic,2,175537,116443,7607,High
+7 Series,2024,Europe,Grey,Electric,Automatic,3.6,170682,115819,9758,High
+i3,2010,Middle East,Grey,Hybrid,Manual,3.5,72960,100317,7111,High
+X1,2012,Europe,Black,Hybrid,Manual,4.9,106451,109257,7261,High
+5 Series,2013,Middle East,Red,Diesel,Manual,3.8,94669,66832,8605,High
+X5,2013,Asia,Black,Diesel,Automatic,3.6,55917,73609,6276,Low
+3 Series,2014,Asia,Blue,Electric,Manual,2,29597,117123,8055,High
+X6,2015,Middle East,Red,Electric,Manual,3.7,176149,78034,5346,Low
+i8,2016,Africa,White,Hybrid,Automatic,2,116828,116644,3218,Low
+M3,2017,North America,Black,Electric,Automatic,3.1,17343,71081,563,Low
+3 Series,2012,Asia,Red,Hybrid,Automatic,4.5,8083,57377,6402,Low
+M3,2019,South America,White,Hybrid,Manual,3.7,199455,95972,8060,High
+X3,2010,Europe,Grey,Electric,Manual,3.6,131703,88507,2136,Low
+5 Series,2020,South America,Red,Electric,Manual,3.6,90595,102829,9637,High
+M5,2015,Africa,Black,Petrol,Manual,2.3,155531,79099,468,Low
+7 Series,2024,North America,Grey,Petrol,Automatic,1.9,48199,58511,3615,Low
+M3,2015,South America,Blue,Hybrid,Manual,3.6,198557,100324,5584,Low
+3 Series,2023,Africa,Silver,Hybrid,Automatic,2.1,90771,60020,8620,High
+3 Series,2015,South America,Silver,Petrol,Automatic,2.7,106520,52243,5418,Low
+3 Series,2010,Europe,Blue,Electric,Automatic,1.6,121142,38012,9484,High
+M5,2024,South America,Black,Diesel,Manual,4.7,87480,60653,1919,Low
+M3,2010,Middle East,Blue,Electric,Manual,3.1,104385,83391,1158,Low
+X3,2014,Africa,Black,Petrol,Automatic,4.1,48387,34998,2284,Low
+3 Series,2022,Europe,Grey,Electric,Manual,4.3,174129,87701,4493,Low
+i8,2011,South America,Silver,Electric,Manual,4.5,89120,94604,5612,Low
+M3,2013,Europe,White,Electric,Automatic,4.3,183540,44647,8915,High
+i8,2018,Middle East,Blue,Petrol,Manual,1.7,44905,36102,4325,Low
+i8,2018,South America,Grey,Petrol,Manual,2.5,65356,87338,6353,Low
+M3,2012,Asia,Grey,Hybrid,Manual,2.5,116458,65187,7831,High
+X6,2011,North America,Red,Hybrid,Manual,3.9,193616,72449,1980,Low
+X6,2019,South America,White,Diesel,Manual,4.4,22216,95918,3937,Low
+M3,2018,North America,Blue,Diesel,Manual,4.6,142299,108218,7610,High
+X5,2022,Africa,Blue,Hybrid,Automatic,2.7,143130,53632,1531,Low
+M3,2021,Middle East,White,Hybrid,Manual,2.9,162609,54134,904,Low
+5 Series,2022,Asia,Grey,Electric,Automatic,4.2,38931,100483,1919,Low
+X1,2024,Middle East,Silver,Electric,Automatic,2.8,31254,105183,2870,Low
+M3,2021,Middle East,White,Diesel,Manual,1.6,89082,100387,4801,Low
+3 Series,2010,South America,Grey,Hybrid,Automatic,4.7,181023,45050,7864,High
+i8,2023,South America,White,Diesel,Automatic,4.1,81291,84613,1588,Low
+X1,2010,Asia,Grey,Petrol,Manual,3.3,164460,38891,5307,Low
+3 Series,2022,South America,Blue,Electric,Automatic,1.5,54569,60204,2772,Low
+X1,2011,North America,Blue,Hybrid,Automatic,3.2,3067,64618,1657,Low
+i3,2021,Asia,Silver,Diesel,Automatic,5,73171,103926,7982,High
+X5,2021,Africa,White,Hybrid,Automatic,4.6,150332,39327,6900,Low
+5 Series,2013,South America,White,Hybrid,Automatic,2.8,164587,72684,1953,Low
+X1,2011,Africa,Black,Electric,Manual,4.5,123077,63417,8771,High
+M5,2018,Middle East,Red,Electric,Manual,2.7,188498,83060,8963,High
+3 Series,2022,South America,Grey,Electric,Manual,4.8,108210,46223,4008,Low
+X1,2023,Asia,Grey,Hybrid,Manual,4.6,137146,76682,6056,Low
+X6,2013,South America,White,Hybrid,Manual,4.5,94915,50923,7821,High
+M3,2015,North America,Grey,Electric,Manual,4.6,116558,99604,8838,High
+X6,2011,Asia,Grey,Electric,Automatic,1.7,191549,95300,8992,High
+X3,2023,Asia,Black,Hybrid,Automatic,4.2,114792,68698,1781,Low
+X5,2016,Africa,Grey,Petrol,Manual,4.4,38526,61444,3110,Low
+3 Series,2011,Middle East,Grey,Diesel,Automatic,3.1,34052,35228,8486,High
+X1,2023,Africa,Blue,Diesel,Manual,3.4,17861,84643,4966,Low
+M3,2018,Middle East,Silver,Petrol,Manual,4.2,102573,76435,8783,High
+X5,2021,Middle East,Black,Petrol,Manual,2.4,192135,101210,2843,Low
+5 Series,2023,Europe,Red,Petrol,Automatic,3.6,129243,108354,6435,Low
+M3,2010,South America,Silver,Hybrid,Manual,4.7,161738,91467,8805,High
+7 Series,2010,Asia,Silver,Electric,Automatic,1.7,119853,72151,3689,Low
+X1,2022,North America,White,Hybrid,Automatic,4.8,109796,47605,8372,High
+X5,2016,Europe,Silver,Diesel,Automatic,2,39861,73091,2653,Low
+3 Series,2011,Asia,Silver,Hybrid,Automatic,4.5,136124,93228,5485,Low
+5 Series,2024,North America,Silver,Hybrid,Automatic,4.9,78177,110946,6463,Low
+X6,2016,South America,Red,Diesel,Manual,1.8,33132,104860,1720,Low
+i8,2012,Middle East,Black,Petrol,Automatic,2.9,183645,101378,6836,Low
+M3,2013,Asia,Silver,Electric,Automatic,4.5,192410,33650,6575,Low
+M3,2015,Europe,Blue,Petrol,Manual,3.6,169420,103422,2478,Low
+X1,2013,Middle East,White,Petrol,Automatic,1.6,27068,111360,7476,High
+5 Series,2018,Africa,White,Electric,Automatic,4.6,128180,34684,2236,Low
+5 Series,2010,Africa,Black,Diesel,Automatic,4.1,157065,93892,2247,Low
+3 Series,2020,Africa,Silver,Petrol,Automatic,3.6,143420,80247,2387,Low
+X3,2017,Africa,Silver,Hybrid,Automatic,1.7,37719,90364,5046,Low
+M3,2016,Africa,Red,Electric,Automatic,4.7,68059,44310,2894,Low
+X3,2021,South America,Grey,Petrol,Manual,3.7,80393,101210,6422,Low
+3 Series,2018,Middle East,Red,Electric,Manual,4.3,135986,106482,6919,Low
+7 Series,2017,Asia,Red,Hybrid,Manual,3.1,155016,92214,993,Low
+X5,2024,Africa,Blue,Hybrid,Manual,4.6,15691,42718,9638,High
+M5,2012,Africa,Blue,Electric,Automatic,2.8,360,88611,2352,Low
+7 Series,2015,Asia,Red,Hybrid,Automatic,4.2,151454,93461,351,Low
+M5,2023,Europe,Silver,Petrol,Automatic,2.7,36126,56815,6867,Low
+5 Series,2022,South America,White,Electric,Manual,1.9,23011,36925,8380,High
+5 Series,2013,Africa,Red,Diesel,Manual,3,185198,58854,8522,High
+7 Series,2023,North America,Black,Petrol,Manual,1.5,67239,95084,8077,High
+5 Series,2019,Asia,Blue,Hybrid,Manual,3.8,115227,79059,6762,Low
+i3,2010,Europe,Black,Petrol,Automatic,1.6,82529,51582,267,Low
+M3,2012,Europe,Grey,Petrol,Manual,4.4,96542,58130,3509,Low
+7 Series,2016,Europe,Blue,Electric,Manual,5,102645,106704,1631,Low
+5 Series,2020,Africa,Black,Diesel,Automatic,3.7,166519,75307,3663,Low
+X1,2023,North America,Grey,Diesel,Automatic,2.1,73767,85042,2202,Low
+3 Series,2020,South America,Red,Hybrid,Manual,3.1,168557,101606,4948,Low
+i8,2010,Europe,Grey,Hybrid,Automatic,2.1,49536,95880,2636,Low
+M3,2018,Europe,Black,Diesel,Automatic,1.8,161871,73613,5469,Low
+M3,2016,Middle East,Grey,Diesel,Automatic,2.9,100882,96235,638,Low
+M3,2018,South America,White,Electric,Automatic,1.9,133538,63350,7082,High
+X6,2010,Asia,Black,Diesel,Manual,3.8,13922,61341,4020,Low
+i8,2015,South America,Black,Petrol,Manual,1.7,160336,59870,4270,Low
+X1,2010,Africa,Red,Electric,Automatic,3.7,70582,32634,5754,Low
+M5,2022,Middle East,Grey,Petrol,Manual,3.7,117030,97533,7623,High
+X5,2010,Europe,Silver,Hybrid,Manual,4.8,68537,82029,4781,Low
+5 Series,2017,Africa,Black,Electric,Automatic,4,45850,37111,2646,Low
+M3,2010,Africa,Red,Diesel,Automatic,4.3,62284,95241,6187,Low
+3 Series,2013,South America,White,Hybrid,Automatic,4.1,106717,88180,712,Low
+3 Series,2017,Middle East,Black,Diesel,Manual,3.4,69142,37059,3760,Low
+M5,2017,Asia,Grey,Hybrid,Automatic,1.8,44575,48130,3292,Low
+X5,2019,Africa,Grey,Hybrid,Automatic,4.4,73385,87229,3156,Low
+M5,2010,South America,Red,Petrol,Manual,3.2,11601,56747,966,Low
+i3,2018,Asia,Grey,Petrol,Automatic,4.6,195827,63392,1524,Low
+3 Series,2022,Africa,Black,Diesel,Manual,4.2,85562,84686,9502,High
+M5,2013,Asia,White,Petrol,Automatic,2.2,88881,113613,3801,Low
+i8,2017,Asia,Grey,Diesel,Automatic,4.1,176859,94557,3239,Low
+i8,2011,Africa,Blue,Hybrid,Automatic,3.3,147377,57957,2055,Low
+5 Series,2020,Middle East,Silver,Petrol,Automatic,3.1,19133,86572,8227,High
+M5,2022,Africa,White,Diesel,Manual,2.1,71441,30476,2343,Low
+M3,2022,North America,White,Petrol,Automatic,1.6,78238,85474,3077,Low
+X5,2018,Middle East,White,Hybrid,Manual,4.7,76758,92656,7283,High
+7 Series,2021,Africa,Black,Diesel,Automatic,3.2,153972,119463,2819,Low
+X5,2020,Asia,Grey,Diesel,Manual,3.3,448,76019,4918,Low
+X3,2015,Asia,Red,Petrol,Manual,2.7,71064,90559,905,Low
+3 Series,2017,North America,Blue,Hybrid,Manual,3,154016,33096,826,Low
+3 Series,2011,Middle East,Silver,Hybrid,Automatic,3.5,29685,104146,4591,Low
+5 Series,2014,Europe,Grey,Petrol,Automatic,3.8,7738,93027,4600,Low
+M5,2020,South America,Silver,Hybrid,Automatic,2.7,171863,31365,2157,Low
+X6,2018,South America,Red,Diesel,Automatic,2.4,96602,82637,8232,High
+M5,2016,Asia,Black,Electric,Manual,2.5,133484,39524,1022,Low
+M3,2020,Asia,Silver,Petrol,Manual,1.6,115757,71789,9663,High
+i8,2023,North America,Grey,Petrol,Automatic,1.6,105324,110848,6162,Low
+X1,2013,Africa,Grey,Electric,Manual,2,1035,69966,995,Low
+M5,2019,Asia,White,Petrol,Automatic,3.1,191338,30317,7580,High
+i3,2014,Middle East,Grey,Electric,Automatic,3.8,99372,46088,3963,Low
+M5,2018,Africa,Red,Hybrid,Manual,3.7,83098,68637,4456,Low
+X6,2011,South America,White,Hybrid,Manual,4.3,46105,109938,2178,Low
+X1,2020,Europe,Red,Hybrid,Manual,2.3,101600,84222,5233,Low
+M5,2023,South America,Black,Hybrid,Automatic,4.1,16308,45624,7865,High
+X3,2011,Middle East,White,Hybrid,Automatic,5,98354,92994,5729,Low
+i8,2019,North America,White,Petrol,Manual,1.9,193696,34431,4484,Low
+M3,2015,North America,Blue,Diesel,Automatic,2.1,195805,116269,978,Low
+7 Series,2015,Africa,Blue,Petrol,Automatic,1.7,154,47172,8175,High
+i3,2021,South America,Silver,Electric,Manual,4.2,119620,107191,3881,Low
+M3,2011,Asia,Red,Diesel,Automatic,4.5,47687,65852,7707,High
+X5,2015,South America,Silver,Petrol,Manual,1.7,148892,82873,5830,Low
+i8,2019,Europe,Grey,Petrol,Manual,2.6,83429,100345,8347,High
+X3,2019,North America,Blue,Electric,Automatic,4.4,73276,69193,1618,Low
+M3,2020,Africa,Blue,Diesel,Automatic,4.5,19187,68435,771,Low
+5 Series,2022,North America,White,Hybrid,Automatic,4.3,140306,77063,9536,High
+M5,2023,Middle East,Silver,Diesel,Automatic,2,60755,43432,7230,High
+M3,2010,North America,Black,Hybrid,Manual,2,88803,66624,2937,Low
+3 Series,2019,Asia,Red,Diesel,Manual,2.7,182142,71861,2571,Low
+X3,2012,South America,Black,Electric,Manual,3.3,152678,93925,7198,High
+X5,2011,Europe,Blue,Diesel,Manual,2.6,185400,90278,7494,High
+7 Series,2019,Africa,White,Hybrid,Automatic,4,88602,111265,1456,Low
+7 Series,2016,South America,Black,Petrol,Automatic,3.1,59009,76492,5052,Low
+X5,2012,Africa,White,Electric,Automatic,1.7,81656,116533,5391,Low
+M5,2012,Europe,Grey,Diesel,Automatic,1.9,96063,74758,2590,Low
+X1,2017,South America,Black,Petrol,Manual,2.7,152571,62069,2311,Low
+X3,2014,North America,White,Electric,Automatic,2.9,192706,72992,6716,Low
+M3,2023,Europe,Grey,Electric,Manual,1.6,173265,88604,3927,Low
+X3,2011,Middle East,Black,Electric,Manual,3.1,156171,106752,6428,Low
+5 Series,2023,Europe,Blue,Petrol,Manual,3.8,145561,90206,2314,Low
+X1,2023,North America,Silver,Hybrid,Manual,2.2,73743,52423,8614,High
+X1,2023,Asia,Silver,Hybrid,Manual,4,132440,94400,3188,Low
+i8,2013,South America,Silver,Electric,Automatic,4.1,51214,82032,2216,Low
+i8,2016,Middle East,Grey,Electric,Automatic,3.2,30032,80724,8550,High
+M5,2011,Asia,Grey,Diesel,Manual,2.2,128755,56099,1928,Low
+X3,2014,Africa,White,Diesel,Automatic,4,15032,78606,9642,High
+i8,2022,Europe,Red,Hybrid,Automatic,3.5,88385,115336,3226,Low
+i3,2015,Asia,Silver,Diesel,Manual,2.3,65946,115465,4704,Low
+i8,2022,Middle East,Silver,Hybrid,Automatic,3.4,63782,36822,3404,Low
+X1,2019,South America,White,Petrol,Manual,2,24999,113540,2325,Low
+3 Series,2024,South America,White,Diesel,Automatic,1.6,45907,79158,1418,Low
+M5,2019,Asia,Grey,Petrol,Automatic,4.6,29297,40073,6389,Low
+3 Series,2012,North America,White,Hybrid,Automatic,4.1,198788,87013,4333,Low
+X5,2020,Europe,Red,Diesel,Manual,4.6,129847,54505,3662,Low
+X5,2020,North America,Grey,Hybrid,Automatic,2.5,155842,108818,7647,High
+M3,2022,Europe,Red,Diesel,Automatic,2.9,90952,37533,273,Low
+X6,2014,South America,Black,Electric,Automatic,3.4,102453,96527,819,Low
+7 Series,2023,Europe,Silver,Diesel,Manual,2.5,78188,111258,138,Low
+X6,2013,Africa,Grey,Petrol,Manual,2.8,129364,118034,4606,Low
+i3,2018,North America,Red,Electric,Automatic,4.2,85090,101976,1518,Low
+X5,2016,Africa,Blue,Hybrid,Manual,2,48276,33742,2997,Low
+M3,2011,South America,White,Electric,Manual,4.4,88242,106184,6490,Low
+X1,2013,Africa,White,Electric,Manual,2.8,143849,62033,4353,Low
+M3,2021,North America,Red,Petrol,Automatic,2.2,76164,92522,9348,High
+X3,2023,Africa,White,Hybrid,Automatic,2.6,623,68086,1077,Low
+X3,2017,Asia,Grey,Diesel,Automatic,3,36465,56583,4025,Low
+5 Series,2021,North America,Blue,Electric,Automatic,2.6,194146,109630,3696,Low
+M5,2013,South America,Silver,Electric,Automatic,1.8,101544,116191,9971,High
+7 Series,2024,Europe,Blue,Electric,Manual,1.6,170605,54167,3620,Low
+X5,2021,Asia,Silver,Petrol,Automatic,4.8,166678,36086,4214,Low
+i3,2019,South America,Black,Diesel,Automatic,4,155950,57266,9358,High
+7 Series,2011,North America,Grey,Electric,Automatic,3.7,77273,31019,8756,High
+5 Series,2014,Asia,Grey,Petrol,Manual,2.6,153835,58307,2523,Low
+X6,2023,North America,Silver,Petrol,Manual,4,61703,101506,866,Low
+X3,2022,North America,Red,Hybrid,Manual,2.1,174917,72640,3480,Low
+M3,2020,Europe,Black,Hybrid,Automatic,4.6,62623,96348,5955,Low
+X5,2023,Europe,Red,Diesel,Automatic,2.9,179000,48890,7439,High
+5 Series,2019,North America,Grey,Diesel,Automatic,4.3,74407,86536,753,Low
+i8,2023,Europe,Black,Electric,Automatic,3.3,27499,77366,2470,Low
+X5,2011,Middle East,White,Hybrid,Automatic,2.1,194497,115910,9329,High
+i8,2010,South America,Grey,Petrol,Manual,4.5,50118,38360,8732,High
+M5,2022,Middle East,Red,Hybrid,Manual,3.7,8004,85639,9940,High
+X6,2014,Asia,Black,Diesel,Manual,4.2,115130,43107,7314,High
+X3,2010,South America,Red,Diesel,Automatic,3.5,175980,105554,7836,High
+i8,2021,South America,Silver,Hybrid,Automatic,2.3,132905,66884,7098,High
+i8,2016,Middle East,White,Hybrid,Manual,2.4,185496,57362,9233,High
+X3,2024,Asia,White,Hybrid,Manual,2.5,45516,36472,8306,High
+M3,2022,North America,Black,Hybrid,Manual,3.4,10380,80654,7340,High
+X1,2022,Europe,Black,Diesel,Automatic,3.2,64376,85127,3861,Low
+M5,2013,Asia,White,Petrol,Automatic,1.9,176631,98675,7185,High
+X3,2023,Africa,White,Electric,Manual,4,176908,99005,3225,Low
+3 Series,2018,Africa,Grey,Hybrid,Manual,2.3,20943,70323,6025,Low
+5 Series,2016,Europe,White,Hybrid,Automatic,2.2,77514,70025,2461,Low
+i3,2016,Middle East,Grey,Diesel,Automatic,4.4,114162,82024,1069,Low
+5 Series,2021,North America,Black,Electric,Manual,2.1,53076,44825,157,Low
+X6,2017,Europe,Blue,Petrol,Automatic,2.9,102547,56585,5987,Low
+X1,2019,Europe,Silver,Diesel,Manual,4.5,127667,53135,6697,Low
+X1,2013,Middle East,Grey,Petrol,Automatic,4.9,159530,96638,7537,High
+X3,2024,Middle East,Blue,Diesel,Manual,3.7,87677,119691,3206,Low
+X3,2017,North America,White,Petrol,Manual,3,138535,94833,2258,Low
+X1,2015,Asia,Black,Petrol,Manual,2.8,96425,49917,9303,High
+M5,2023,North America,Grey,Diesel,Automatic,2.8,136215,30558,2038,Low
+X3,2022,South America,Silver,Hybrid,Manual,3.1,120798,83126,6937,Low
+M3,2020,North America,Blue,Electric,Manual,3.6,138340,40056,595,Low
+X6,2024,Europe,Silver,Electric,Manual,1.8,49994,42005,4951,Low
+7 Series,2010,Asia,White,Electric,Automatic,3.6,82454,85255,7736,High
+i3,2011,Asia,Silver,Diesel,Manual,3.7,142515,60072,5705,Low
+X1,2017,Asia,Silver,Hybrid,Automatic,4.1,167781,32223,3691,Low
+i3,2017,Asia,Silver,Petrol,Manual,3.6,41789,79634,2486,Low
+X1,2020,Middle East,Red,Diesel,Manual,4.2,162373,63814,2761,Low
+i8,2015,North America,Silver,Hybrid,Manual,4.8,182986,114169,3374,Low
+M3,2020,Asia,Black,Hybrid,Manual,4.3,114430,91720,1267,Low
+X3,2014,South America,Red,Diesel,Manual,2.2,21226,117226,2672,Low
+5 Series,2022,Middle East,Black,Diesel,Manual,3.5,141314,84078,6956,Low
+X1,2016,Africa,Red,Petrol,Automatic,3.7,70187,49010,3433,Low
+M5,2021,Asia,Red,Hybrid,Automatic,3,105162,32076,9469,High
+7 Series,2016,Asia,Blue,Electric,Manual,4.6,34220,58918,9847,High
+X3,2013,Europe,Blue,Diesel,Manual,2.2,51544,55888,8623,High
+M5,2020,North America,Grey,Diesel,Manual,1.7,31237,81949,4765,Low
+3 Series,2019,Europe,Silver,Electric,Manual,3.3,125388,75486,9467,High
+M3,2021,Middle East,Grey,Hybrid,Automatic,2.5,17981,50343,4632,Low
+3 Series,2014,South America,White,Electric,Automatic,2.5,126691,76450,7499,High
+3 Series,2023,Africa,Red,Electric,Automatic,1.7,120137,109257,3750,Low
+7 Series,2024,Asia,Blue,Hybrid,Manual,1.8,15270,88062,4147,Low
+X1,2019,Middle East,Red,Hybrid,Manual,1.8,62748,114311,179,Low
+X3,2010,Europe,Grey,Electric,Automatic,3.1,192672,107487,4261,Low
+3 Series,2014,South America,Grey,Petrol,Manual,2,196500,65948,6626,Low
+X3,2017,Europe,Grey,Hybrid,Automatic,2.2,56434,51159,2895,Low
+M5,2012,Africa,Grey,Hybrid,Automatic,2.7,120371,110300,7055,High
+3 Series,2012,North America,Grey,Diesel,Automatic,3.2,77881,63441,2453,Low
+X6,2023,Africa,White,Petrol,Automatic,2,93223,33542,1015,Low
+X1,2022,Africa,Grey,Petrol,Manual,2.3,69830,34165,5242,Low
+i8,2023,Middle East,Red,Hybrid,Manual,2.2,150837,100179,2075,Low
+7 Series,2018,South America,Silver,Hybrid,Automatic,2.9,106055,67671,9588,High
+X5,2015,Asia,Grey,Diesel,Manual,3.9,151694,111572,2200,Low
+5 Series,2021,North America,Red,Electric,Automatic,3,114124,55376,2082,Low
+M3,2017,Africa,Grey,Hybrid,Automatic,3.5,157656,65462,4703,Low
+X5,2019,Asia,White,Electric,Manual,3.1,139109,73952,5667,Low
+X5,2015,Middle East,Grey,Diesel,Manual,3.3,107099,101001,946,Low
+X5,2010,South America,Silver,Electric,Automatic,4.7,143349,36298,4537,Low
+X5,2024,Middle East,Grey,Diesel,Automatic,4.3,49854,62795,7833,High
+5 Series,2024,Europe,Silver,Electric,Automatic,2.4,196556,114826,9096,High
+i8,2021,Middle East,Red,Petrol,Automatic,4,106225,40842,6675,Low
+X6,2019,South America,Silver,Hybrid,Manual,4.4,24606,80280,7178,High
+5 Series,2020,Africa,White,Petrol,Automatic,3.6,22852,113678,3932,Low
+i8,2020,Europe,Grey,Electric,Manual,3.9,915,90801,3639,Low
+i8,2011,Africa,Blue,Electric,Manual,3.6,51308,46524,976,Low
+M3,2024,South America,Silver,Diesel,Automatic,3.2,127813,91907,7871,High
+M3,2024,Africa,White,Electric,Automatic,2.3,145803,97696,9847,High
+M5,2011,Africa,Red,Electric,Manual,4.6,93642,34803,9466,High
+i3,2016,South America,Grey,Hybrid,Manual,3.5,10315,90885,352,Low
+X1,2013,Middle East,Silver,Diesel,Automatic,1.6,102333,104692,9694,High
+X1,2021,Asia,Red,Hybrid,Automatic,3,195560,49846,1751,Low
+M3,2014,South America,Red,Diesel,Automatic,4.5,99722,55578,5918,Low
+X1,2022,Africa,Black,Petrol,Automatic,2.3,168574,58565,8467,High
+7 Series,2023,Africa,Silver,Electric,Manual,3.8,117510,79905,9006,High
+X1,2018,Africa,Red,Electric,Automatic,3.4,95224,60468,3488,Low
+X6,2019,Asia,Blue,Petrol,Manual,4,168601,119789,1108,Low
+X5,2010,South America,Blue,Electric,Manual,1.9,3527,88270,9053,High
+5 Series,2018,South America,Black,Diesel,Automatic,1.8,159500,69615,482,Low
+X1,2018,Asia,Red,Electric,Manual,3.8,88479,60885,7285,High
+X5,2011,Middle East,Red,Diesel,Manual,2.5,195149,35817,5236,Low
+X5,2011,South America,Grey,Electric,Automatic,4.2,20130,58738,1179,Low
+X5,2024,Asia,Silver,Diesel,Automatic,2.3,98028,116106,1957,Low
+7 Series,2018,Europe,Grey,Hybrid,Manual,5,193003,79363,1377,Low
+i8,2020,South America,Black,Diesel,Manual,4.5,80473,74393,8836,High
+3 Series,2017,North America,Blue,Hybrid,Automatic,2.1,148688,91161,6635,Low
+X1,2021,Africa,White,Diesel,Automatic,3.8,153976,47258,8041,High
+5 Series,2013,Europe,Silver,Petrol,Manual,1.8,115047,38707,9403,High
+5 Series,2010,Europe,White,Diesel,Automatic,4.5,67556,116100,2667,Low
+X1,2017,Africa,Black,Diesel,Automatic,3.8,113840,69464,9188,High
+X6,2012,Africa,Silver,Electric,Automatic,2.4,161360,92498,7650,High
+M3,2020,South America,Black,Diesel,Manual,3.2,62551,41991,451,Low
+X5,2013,Europe,Red,Electric,Automatic,4.2,54143,87961,6799,Low
+X3,2018,Asia,White,Electric,Manual,2.9,20137,106570,1387,Low
+3 Series,2023,Europe,Silver,Electric,Automatic,3.9,30167,106591,8518,High
+M3,2023,Europe,Grey,Diesel,Automatic,4,9528,87292,7670,High
+X6,2020,Africa,Grey,Diesel,Manual,3.2,157096,98855,3598,Low
+M3,2010,Europe,Blue,Petrol,Manual,4,39930,85036,5395,Low
+7 Series,2020,Europe,Blue,Petrol,Automatic,3.5,103850,62178,9562,High
+X5,2023,North America,Black,Hybrid,Automatic,2.3,176223,79177,6507,Low
+X1,2023,North America,Blue,Electric,Automatic,4.4,46441,33046,5752,Low
+X6,2023,Africa,Silver,Hybrid,Automatic,3.3,115874,30448,7093,High
+M5,2016,Asia,Grey,Electric,Manual,3.8,85557,63717,5901,Low
+X6,2023,Europe,Black,Petrol,Automatic,3.2,172137,102882,6207,Low
+X5,2019,Europe,Red,Electric,Manual,2.6,9139,87692,330,Low
+7 Series,2017,Africa,Red,Petrol,Manual,3.9,80417,43211,4985,Low
+7 Series,2022,Europe,Grey,Diesel,Automatic,4.3,86305,67498,2009,Low
+X6,2013,Africa,Silver,Petrol,Manual,4.9,134811,61298,3253,Low
+5 Series,2010,Middle East,White,Petrol,Automatic,3.8,33844,99529,5086,Low
+7 Series,2021,Europe,Blue,Petrol,Automatic,3.2,165481,38491,6795,Low
+i8,2011,Asia,Silver,Hybrid,Automatic,1.8,124653,94562,5937,Low
+5 Series,2024,South America,Red,Hybrid,Manual,3.5,195882,31666,7266,High
+X5,2016,North America,Blue,Diesel,Automatic,3,174463,107270,4975,Low
+M5,2019,North America,Red,Diesel,Automatic,1.9,190870,32883,8092,High
+3 Series,2023,Asia,Blue,Electric,Automatic,4.8,5359,96189,9931,High
+X6,2020,Middle East,Blue,Diesel,Automatic,3.1,31501,48875,3259,Low
+X3,2019,North America,Black,Electric,Automatic,1.8,156449,33332,9113,High
+i3,2011,Asia,Blue,Diesel,Manual,2.5,144770,113660,371,Low
+i3,2019,Middle East,Blue,Diesel,Automatic,2.6,62546,72343,528,Low
+M3,2011,North America,White,Petrol,Automatic,4.5,124560,90331,1676,Low
+X1,2023,Europe,Red,Electric,Manual,4.6,190446,66635,9004,High
+X6,2011,South America,Blue,Petrol,Manual,3.7,115934,58367,6833,Low
+7 Series,2011,South America,Blue,Hybrid,Manual,3.5,162872,62186,1178,Low
+i8,2012,Africa,White,Electric,Manual,1.9,99489,64984,3212,Low
+X3,2013,Africa,Red,Hybrid,Manual,2.1,112325,107607,907,Low
+X1,2021,Middle East,Red,Hybrid,Manual,1.6,38570,45281,2506,Low
+X3,2024,Africa,Blue,Hybrid,Manual,4.2,74510,113495,7453,High
+X6,2023,North America,Black,Hybrid,Automatic,2.4,65605,110986,6631,Low
+X5,2023,Middle East,Blue,Electric,Manual,2.1,90118,70199,5213,Low
+M5,2010,Asia,White,Hybrid,Automatic,3.3,44806,54650,927,Low
+M5,2024,Africa,Grey,Petrol,Automatic,4.3,102395,64943,8818,High
+M3,2014,South America,Grey,Electric,Manual,2.7,188046,69465,418,Low
+i3,2024,South America,Red,Electric,Manual,3.5,87401,67449,9226,High
+5 Series,2015,Europe,Silver,Electric,Manual,3.3,93943,72030,359,Low
+i3,2014,Africa,Silver,Electric,Automatic,2.9,197638,112658,4649,Low
+7 Series,2015,Middle East,Red,Diesel,Manual,3.6,3554,53556,5962,Low
+7 Series,2014,Africa,Blue,Petrol,Manual,3,183082,111853,5949,Low
+X5,2023,Europe,Grey,Diesel,Automatic,3.2,114465,111932,8502,High
+i8,2022,Asia,White,Petrol,Automatic,1.8,14732,57174,4560,Low
+X3,2013,Africa,White,Hybrid,Automatic,3.5,13997,71714,6017,Low
+X3,2023,Africa,Red,Petrol,Manual,3.3,79019,50713,6708,Low
+M5,2015,North America,Silver,Petrol,Manual,2.3,98550,114997,9279,High
+M5,2019,Middle East,Blue,Electric,Automatic,3.9,77905,102310,7000,High
+X6,2021,Africa,Black,Petrol,Manual,4.1,22501,113538,1061,Low
+X5,2011,Asia,Grey,Diesel,Manual,4.7,137824,81896,9711,High
+3 Series,2019,South America,Grey,Electric,Automatic,3.7,80573,70299,3547,Low
+X6,2021,North America,Red,Hybrid,Automatic,4.5,182232,56846,6892,Low
+X1,2014,Asia,White,Diesel,Automatic,1.9,28487,95685,2419,Low
+M3,2010,Middle East,Blue,Hybrid,Automatic,4.8,17146,45363,2177,Low
+i8,2019,Asia,Silver,Electric,Manual,4,122119,70193,5347,Low
+X5,2021,North America,Black,Petrol,Automatic,4.1,57553,67993,3929,Low
+M3,2013,Africa,Red,Diesel,Automatic,4.1,47589,73208,7510,High
+X1,2021,Middle East,Black,Hybrid,Manual,4.7,66291,49651,3887,Low
+M3,2016,Asia,Black,Electric,Manual,2.1,27658,51838,7318,High
+X1,2024,Middle East,Black,Diesel,Manual,3.5,198291,36267,2804,Low
+X1,2010,Africa,Red,Hybrid,Manual,1.8,81046,37571,2923,Low
+M3,2013,Asia,White,Petrol,Automatic,1.9,113858,105883,6887,Low
+X6,2022,South America,Red,Diesel,Manual,3.1,175287,35222,7710,High
+i3,2011,North America,Grey,Diesel,Automatic,2.5,81908,118038,6172,Low
+X5,2018,Asia,Silver,Electric,Manual,2.4,33087,109835,9730,High
+M3,2017,Africa,Black,Diesel,Automatic,3.7,187759,34740,9027,High
+X6,2017,Africa,Black,Hybrid,Manual,2.4,53909,73245,3172,Low
+X6,2014,South America,Grey,Hybrid,Automatic,1.6,110837,72336,5834,Low
+i8,2011,North America,Silver,Diesel,Manual,3.1,105280,72477,7056,High
+X1,2016,Africa,Red,Diesel,Automatic,4.1,5916,42215,8878,High
+X5,2018,Middle East,Grey,Diesel,Automatic,4.2,177784,55780,8469,High
+3 Series,2016,South America,Red,Electric,Automatic,4.4,26438,72426,1661,Low
+3 Series,2017,South America,Blue,Petrol,Manual,2.1,146245,55835,3272,Low
+i8,2013,Africa,Blue,Electric,Automatic,5,84292,85331,8522,High
+X3,2017,Europe,White,Electric,Manual,2.9,122272,37060,3900,Low
+M5,2010,Asia,White,Electric,Automatic,2.9,197858,76738,4484,Low
+X6,2023,South America,White,Petrol,Manual,1.9,45357,37951,2215,Low
+M5,2020,Africa,Blue,Petrol,Automatic,4.3,37206,97343,286,Low
+X1,2018,Africa,Grey,Diesel,Manual,4.2,3563,91746,2964,Low
+3 Series,2011,Asia,Blue,Diesel,Automatic,3.5,196822,74108,4182,Low
+M3,2013,Europe,White,Hybrid,Manual,1.8,123647,51480,8733,High
+M3,2021,Asia,Silver,Petrol,Automatic,4.7,182613,72995,9520,High
+M3,2018,Middle East,Silver,Diesel,Automatic,4,112536,46815,1414,Low
+X6,2017,Asia,White,Petrol,Automatic,2.9,745,115176,5399,Low
+X3,2015,Europe,Black,Hybrid,Manual,1.8,28735,74155,2002,Low
+X3,2024,Europe,White,Electric,Automatic,4.1,24240,98696,417,Low
+i3,2011,North America,Silver,Hybrid,Automatic,1.6,13417,34675,1487,Low
+X6,2018,Middle East,Red,Petrol,Automatic,3.4,141453,46452,2425,Low
+M3,2010,South America,Red,Electric,Automatic,2.6,66802,71192,8559,High
+7 Series,2015,South America,Black,Electric,Automatic,3.3,18383,103953,6362,Low
+7 Series,2017,Middle East,White,Petrol,Manual,2,117817,97740,2759,Low
+3 Series,2018,South America,Blue,Diesel,Automatic,4.2,172304,110231,8397,High
+X1,2019,South America,Grey,Diesel,Manual,3.4,148919,98173,4753,Low
+5 Series,2019,South America,Black,Diesel,Manual,1.7,127899,112889,1246,Low
+X3,2024,North America,Black,Diesel,Automatic,3.6,96148,71692,367,Low
+5 Series,2011,North America,Black,Petrol,Manual,3.1,37081,85646,4554,Low
+i3,2010,Middle East,Black,Electric,Automatic,4.6,151988,87594,2619,Low
+7 Series,2024,Asia,White,Hybrid,Automatic,3.6,44054,93399,4364,Low
+7 Series,2020,Middle East,Blue,Hybrid,Automatic,3.1,76907,84722,6363,Low
+i8,2023,Middle East,Grey,Hybrid,Manual,3.8,96577,90709,7112,High
+X1,2012,Asia,Red,Hybrid,Automatic,2.2,149997,73270,1816,Low
+7 Series,2020,South America,Red,Petrol,Manual,1.8,51826,43973,7148,High
+X6,2013,North America,Silver,Electric,Manual,3.8,115052,57722,1004,Low
+X1,2023,North America,Red,Petrol,Automatic,2.3,143277,101258,4318,Low
+3 Series,2015,Middle East,Silver,Diesel,Automatic,2.2,185033,37005,9914,High
+7 Series,2018,Africa,Silver,Hybrid,Automatic,3.3,137799,62482,9529,High
+X1,2014,Africa,Red,Hybrid,Manual,2,159545,33667,2776,Low
+i3,2017,North America,Black,Electric,Manual,1.5,124581,73032,9076,High
+X5,2019,Asia,Black,Petrol,Manual,4.7,181601,83666,8336,High
+7 Series,2020,North America,Red,Electric,Manual,3.2,86783,64279,3925,Low
+X1,2021,North America,Black,Petrol,Manual,3.6,190680,106459,2658,Low
+M5,2024,Middle East,Blue,Diesel,Automatic,1.6,2710,89908,7963,High
+i3,2015,South America,White,Electric,Manual,3.5,88083,57814,3972,Low
+3 Series,2022,Europe,Silver,Hybrid,Automatic,3.3,121561,81660,2560,Low
+3 Series,2011,North America,Grey,Electric,Manual,1.6,185327,73411,7894,High
+X1,2014,North America,Silver,Electric,Automatic,2.9,130954,42921,5682,Low
+3 Series,2017,Asia,Silver,Electric,Manual,3.8,188133,101640,3226,Low
+X6,2019,Asia,Grey,Electric,Manual,3.1,148770,57651,5941,Low
+M5,2019,Middle East,White,Hybrid,Automatic,1.6,182481,34000,6368,Low
+X5,2012,Middle East,Blue,Petrol,Automatic,2.5,61518,47385,5743,Low
+3 Series,2014,Africa,Red,Petrol,Manual,4.2,146819,56577,3757,Low
+M5,2022,Europe,Silver,Diesel,Automatic,4.7,191316,96314,8569,High
+i8,2022,Middle East,Black,Electric,Automatic,4.7,79119,48964,7685,High
+X6,2018,Middle East,Red,Diesel,Manual,4.9,120462,69532,3955,Low
+i3,2012,Middle East,Black,Electric,Automatic,4,34713,71637,138,Low
+X6,2020,Europe,Blue,Hybrid,Manual,2.5,195482,67709,5797,Low
+X1,2013,South America,Red,Petrol,Manual,2.7,3401,82901,3074,Low
+M3,2019,Middle East,Blue,Petrol,Automatic,3.2,113589,107786,5513,Low
+X3,2014,South America,Black,Hybrid,Automatic,3.7,182943,98417,3510,Low
+i3,2019,Asia,Red,Petrol,Automatic,3.7,167688,30512,7347,High
+X5,2010,Middle East,Red,Hybrid,Manual,4.3,103982,111034,753,Low
+X1,2012,South America,Blue,Hybrid,Manual,3.2,28288,89554,9233,High
+X3,2011,Middle East,White,Petrol,Manual,1.7,33142,47617,1944,Low
+3 Series,2021,Europe,Grey,Hybrid,Manual,3.7,140720,68301,4906,Low
+M5,2022,Africa,Red,Petrol,Manual,1.6,49350,113113,8198,High
+X5,2014,Europe,Silver,Hybrid,Automatic,1.7,36005,52561,7461,High
+i3,2015,North America,Grey,Hybrid,Manual,1.6,6810,36118,8103,High
+5 Series,2022,Middle East,Black,Diesel,Automatic,2.8,153362,67524,8222,High
+X5,2016,Africa,White,Electric,Automatic,3.2,155877,51921,5502,Low
+M5,2012,Asia,Black,Petrol,Manual,3,45096,103794,4640,Low
+i8,2016,North America,Blue,Petrol,Manual,2.9,189229,103129,9564,High
+3 Series,2019,South America,White,Diesel,Manual,1.8,7568,78161,9950,High
+M3,2019,Middle East,Blue,Diesel,Automatic,4.8,39118,80420,7314,High
+X5,2015,Middle East,Silver,Petrol,Manual,3.3,97017,106463,9625,High
+X6,2021,Middle East,Black,Hybrid,Manual,4.8,60527,84094,5194,Low
+i3,2020,Middle East,Silver,Hybrid,Automatic,4.1,192571,95319,879,Low
+i8,2013,Asia,Black,Electric,Automatic,4,22261,95504,4772,Low
+X3,2018,North America,Silver,Hybrid,Automatic,3.9,107079,83590,7955,High
+i8,2020,Middle East,White,Diesel,Manual,2.3,3777,83039,4686,Low
+i8,2017,Africa,Red,Electric,Automatic,2.3,25610,55450,2590,Low
+3 Series,2011,North America,Black,Diesel,Automatic,3.7,72255,48090,6473,Low
+i8,2017,Africa,Blue,Electric,Automatic,1.6,104428,108633,9961,High
+X3,2018,Africa,Blue,Petrol,Automatic,2.2,29507,32637,2662,Low
+i3,2011,North America,White,Hybrid,Automatic,4.4,25295,59699,9241,High
+X1,2019,Europe,Red,Petrol,Manual,3,152196,58549,2832,Low
+X3,2018,Asia,Black,Electric,Manual,4.5,155036,55122,4364,Low
+5 Series,2021,South America,Black,Hybrid,Manual,1.9,161725,94950,6058,Low
+M3,2010,Middle East,Black,Diesel,Automatic,4.5,25257,77621,8504,High
+X5,2022,Middle East,Silver,Diesel,Manual,2.4,83917,45356,7845,High
+5 Series,2024,Africa,Grey,Diesel,Automatic,1.8,125124,113166,3335,Low
+X5,2014,South America,Blue,Hybrid,Manual,2.7,80129,74014,2353,Low
+X3,2011,Asia,White,Diesel,Automatic,3.9,93678,86842,3161,Low
+X6,2021,North America,Blue,Diesel,Manual,4.4,161872,107088,3206,Low
+X1,2014,North America,Grey,Hybrid,Manual,4.2,73437,45207,2739,Low
+5 Series,2011,North America,Blue,Petrol,Manual,4.8,94691,69517,4000,Low
+X5,2023,Africa,Blue,Electric,Manual,2.5,16040,91555,3272,Low
+X3,2019,North America,Silver,Hybrid,Manual,2.1,901,105888,8835,High
+X1,2017,Africa,White,Hybrid,Manual,2.4,176079,95912,2079,Low
+7 Series,2012,North America,White,Petrol,Automatic,3.8,136276,54233,7563,High
+X5,2012,Europe,Blue,Hybrid,Manual,4,104816,81275,2030,Low
+X6,2012,Europe,Blue,Petrol,Automatic,2.1,191200,102616,4908,Low
+M5,2012,Middle East,Grey,Diesel,Manual,4.5,116379,100762,4382,Low
+X5,2018,South America,White,Diesel,Manual,4.2,71522,40333,5962,Low
+7 Series,2019,South America,Blue,Petrol,Manual,2.8,112648,98288,1133,Low
+3 Series,2022,South America,Blue,Petrol,Manual,2.9,15743,37152,5775,Low
+X6,2017,South America,Grey,Petrol,Manual,4.8,4074,108437,5027,Low
+X1,2023,South America,Blue,Electric,Manual,4.9,165005,102309,4303,Low
+X3,2021,Asia,Silver,Hybrid,Manual,2.6,51547,52424,1381,Low
+5 Series,2016,Middle East,Red,Petrol,Manual,4.4,15375,30645,5691,Low
+X5,2019,Europe,Black,Diesel,Manual,3.8,50299,73878,3923,Low
+7 Series,2020,Middle East,White,Electric,Manual,3.3,182367,75577,2795,Low
+M3,2010,Asia,Black,Hybrid,Automatic,4.6,107263,109285,5727,Low
+X5,2018,North America,Red,Petrol,Automatic,2.9,199593,42009,3610,Low
+X3,2017,Africa,White,Electric,Manual,3,158691,92680,9897,High
+5 Series,2015,Asia,Blue,Petrol,Manual,2.7,123053,77524,2623,Low
+3 Series,2014,Middle East,Black,Electric,Manual,2,167853,93568,7523,High
+3 Series,2012,Middle East,Silver,Electric,Manual,2.5,192448,107950,7718,High
+X1,2014,Middle East,White,Hybrid,Manual,2.7,139953,63326,4351,Low
+5 Series,2018,Asia,Grey,Hybrid,Manual,3.3,13203,44719,6537,Low
+X5,2011,Europe,Blue,Diesel,Manual,4.2,33142,30374,7207,High
+i3,2010,South America,White,Electric,Automatic,3.5,7119,95397,7531,High
+5 Series,2017,North America,White,Petrol,Manual,2.1,49781,101578,6731,Low
+3 Series,2020,Middle East,Red,Diesel,Automatic,4.3,183198,34674,9737,High
+i3,2012,Europe,Black,Diesel,Manual,4.3,139383,64874,1760,Low
+i3,2016,North America,Black,Hybrid,Manual,4.5,68014,104313,6221,Low
+M5,2010,Asia,Silver,Hybrid,Automatic,2.5,62672,56731,8639,High
+3 Series,2024,Africa,Red,Hybrid,Automatic,4.5,6983,72014,5572,Low
+X1,2019,North America,Blue,Hybrid,Automatic,3.6,101941,105162,9114,High
+X5,2010,South America,Red,Petrol,Manual,2.5,42760,79957,4985,Low
+X1,2015,South America,Red,Diesel,Manual,4,83422,30566,2035,Low
+3 Series,2019,Africa,Black,Hybrid,Automatic,1.5,151218,73456,2668,Low
+X1,2017,Middle East,Silver,Electric,Manual,2,47027,56379,3114,Low
+X1,2017,North America,Black,Diesel,Automatic,2.5,4236,40757,7898,High
+7 Series,2017,Asia,Grey,Diesel,Automatic,4.2,21070,31760,1001,Low
+X6,2011,South America,Grey,Petrol,Automatic,4.3,195901,39403,8627,High
+3 Series,2010,Asia,Red,Petrol,Manual,4.5,52350,46813,4437,Low
+M3,2013,Asia,Black,Diesel,Manual,4.2,61842,77628,1097,Low
+X5,2019,Middle East,Silver,Petrol,Automatic,4.7,137693,63480,4498,Low
+3 Series,2014,Europe,Silver,Electric,Manual,1.6,31916,48407,7041,High
+M5,2019,Africa,Black,Electric,Automatic,5,85440,104395,3690,Low
+5 Series,2011,Europe,White,Petrol,Automatic,2.1,146963,90224,3683,Low
+5 Series,2018,Middle East,Black,Diesel,Manual,2.4,127289,113328,3618,Low
+7 Series,2012,Europe,White,Diesel,Manual,3.5,130593,74598,5078,Low
+M3,2016,Middle East,White,Hybrid,Automatic,4.7,23278,39071,1089,Low
+7 Series,2010,South America,Black,Hybrid,Automatic,3.6,80705,90371,5715,Low
+M3,2015,Africa,Grey,Petrol,Manual,2.2,56781,58393,4894,Low
+i8,2018,Middle East,Silver,Diesel,Manual,1.9,79450,81393,7854,High
+3 Series,2024,Europe,Silver,Diesel,Automatic,3.3,11485,97278,5976,Low
+3 Series,2013,Europe,Grey,Electric,Manual,4.3,128661,101762,1406,Low
+X6,2022,South America,Grey,Petrol,Automatic,1.8,20815,113483,9594,High
+i8,2012,North America,Black,Hybrid,Automatic,2.5,130343,91964,5087,Low
+5 Series,2018,Middle East,Red,Diesel,Manual,4.9,33657,119115,6663,Low
+X1,2019,Africa,Black,Electric,Manual,3.6,76467,111318,6091,Low
+M3,2013,Africa,Red,Petrol,Manual,2.3,129140,61598,5763,Low
+i8,2014,Asia,White,Diesel,Manual,4.7,21951,92132,2093,Low
+5 Series,2015,South America,Blue,Electric,Automatic,2.2,150612,97253,8143,High
+X1,2019,Asia,Blue,Electric,Manual,1.5,96244,113609,6143,Low
+i3,2016,Middle East,White,Hybrid,Automatic,1.8,191746,71640,2841,Low
+X1,2013,Europe,Blue,Petrol,Automatic,2.9,187819,31907,7519,High
+3 Series,2022,Africa,Silver,Diesel,Manual,1.9,145241,113054,9043,High
+X6,2012,North America,Red,Hybrid,Manual,4.7,30920,59491,2325,Low
+M3,2021,Asia,Black,Hybrid,Manual,2.6,11626,110755,590,Low
+3 Series,2021,South America,Silver,Hybrid,Automatic,3.3,198014,85739,725,Low
+M3,2011,Europe,Silver,Hybrid,Automatic,1.6,154581,114262,5600,Low
+X6,2020,North America,Blue,Diesel,Manual,3,62672,88062,6956,Low
+M5,2024,Africa,Silver,Petrol,Automatic,3.4,65401,81082,9762,High
+X5,2010,Asia,Black,Diesel,Manual,2.4,44048,64787,1995,Low
+7 Series,2021,North America,Silver,Hybrid,Automatic,4,115542,83591,5004,Low
+M3,2011,South America,Grey,Petrol,Manual,4.1,156003,84859,5241,Low
+M3,2023,Africa,Silver,Diesel,Automatic,4.1,199502,50472,4988,Low
+3 Series,2014,Africa,Grey,Diesel,Manual,1.7,63530,96661,6118,Low
+3 Series,2020,Middle East,Red,Diesel,Manual,4.9,47575,38908,8890,High
+5 Series,2019,Africa,Black,Petrol,Automatic,3.2,139657,59560,5233,Low
+i3,2010,Middle East,Black,Petrol,Manual,3.3,63240,99757,997,Low
+M3,2013,Middle East,Grey,Diesel,Automatic,4.1,161631,94689,5181,Low
+M3,2010,North America,Black,Electric,Manual,3.7,77550,107732,2426,Low
+M5,2022,South America,Black,Hybrid,Manual,2.4,182819,39322,7939,High
+M5,2020,North America,Grey,Diesel,Automatic,4.1,185328,79959,2624,Low
+3 Series,2011,North America,Silver,Diesel,Automatic,2.1,5139,119284,8141,High
+i3,2020,North America,Blue,Electric,Automatic,3.6,56317,99091,6032,Low
+X6,2019,Asia,Red,Petrol,Automatic,1.6,122672,47846,538,Low
+X3,2022,Africa,White,Hybrid,Manual,3.2,45280,55157,2219,Low
+i8,2022,Asia,White,Diesel,Manual,2.3,33494,40087,438,Low
+X6,2020,South America,Silver,Petrol,Automatic,4.8,2701,110115,1181,Low
+5 Series,2013,Middle East,Silver,Petrol,Manual,1.6,140301,102219,4519,Low
+3 Series,2020,Europe,Silver,Hybrid,Automatic,3.6,125837,108689,6176,Low
+5 Series,2017,North America,Red,Diesel,Automatic,4.3,75731,47662,1429,Low
+X1,2016,South America,Black,Hybrid,Automatic,4.1,156785,33993,5977,Low
+X6,2018,North America,Red,Hybrid,Manual,1.6,168216,113390,3125,Low
+7 Series,2020,Middle East,Black,Electric,Manual,4.8,172040,43055,5688,Low
+i3,2011,Europe,Blue,Electric,Manual,4.4,99187,85449,5459,Low
+3 Series,2019,South America,Black,Hybrid,Manual,3.9,42467,102968,2165,Low
+i8,2013,Asia,Grey,Petrol,Automatic,3.7,109549,46743,6677,Low
+M5,2014,Europe,Blue,Diesel,Automatic,1.8,174370,113654,8578,High
+M3,2015,Asia,Black,Diesel,Manual,4.5,108038,112081,439,Low
+X1,2023,Middle East,White,Electric,Manual,1.8,3833,36006,471,Low
+X6,2016,Africa,Grey,Electric,Automatic,1.9,47639,74727,8169,High
+7 Series,2014,North America,Red,Diesel,Automatic,2.2,81858,118461,6524,Low
+i3,2019,Asia,White,Electric,Automatic,4.9,36154,93388,6885,Low
+i8,2019,South America,Red,Diesel,Automatic,4.9,84083,52803,5565,Low
+7 Series,2016,North America,Black,Electric,Manual,1.8,148570,109666,1760,Low
+3 Series,2020,Middle East,Red,Hybrid,Manual,2.5,33413,32587,3813,Low
+i8,2014,South America,White,Petrol,Automatic,3.2,111498,46536,6055,Low
+X3,2014,North America,Black,Petrol,Manual,1.6,112839,108562,6705,Low
+X1,2020,Africa,Blue,Hybrid,Automatic,3.5,27794,65051,4441,Low
+X1,2018,Europe,Silver,Diesel,Automatic,4.4,63728,49735,4287,Low
+X5,2022,South America,Black,Diesel,Automatic,2.7,5237,61414,6954,Low
+X6,2012,Middle East,White,Electric,Manual,2.9,26272,97562,9587,High
+i3,2020,Middle East,Red,Diesel,Manual,3.1,48151,49970,7602,High
+5 Series,2024,Africa,Black,Hybrid,Automatic,4.9,149476,82125,3341,Low
+M5,2012,Asia,Grey,Electric,Manual,2.1,189693,71530,3136,Low
+i3,2014,Europe,White,Diesel,Manual,4.5,137632,44441,4761,Low
+7 Series,2024,South America,Grey,Electric,Automatic,3,62393,108503,9817,High
+5 Series,2022,Africa,Blue,Electric,Automatic,1.9,147952,39275,2077,Low
+7 Series,2017,Middle East,Red,Petrol,Automatic,4,152968,111730,964,Low
+X6,2022,Asia,Blue,Diesel,Manual,2.5,71180,77715,3420,Low
+X1,2014,North America,Grey,Hybrid,Automatic,3.8,110785,114851,1848,Low
+3 Series,2015,Europe,White,Electric,Manual,2.8,101025,82672,6832,Low
+7 Series,2023,Middle East,Grey,Petrol,Manual,3.4,141634,81364,4019,Low
+X5,2020,Europe,Grey,Electric,Manual,1.8,13648,90330,9318,High
+X1,2014,Europe,Silver,Hybrid,Automatic,3.7,81661,31028,1513,Low
+i3,2019,Africa,Grey,Petrol,Automatic,3.5,196777,83167,3230,Low
+7 Series,2017,South America,Red,Petrol,Manual,4.3,177231,55730,1764,Low
+i8,2018,Europe,White,Hybrid,Manual,1.7,116667,74530,746,Low
+M5,2011,North America,Silver,Electric,Manual,3,56620,44239,2456,Low
+i8,2012,Africa,Silver,Electric,Automatic,2.8,13934,88502,6963,Low
+X5,2024,Asia,Red,Hybrid,Manual,4.1,179263,51892,3770,Low
+X5,2013,Europe,Grey,Hybrid,Automatic,2.7,136204,89404,9716,High
+7 Series,2013,Africa,Blue,Diesel,Manual,2.8,147448,88689,6247,Low
+5 Series,2013,North America,Blue,Hybrid,Manual,2.2,181887,58949,6072,Low
+X1,2018,Middle East,Silver,Diesel,Manual,1.5,92058,56328,7761,High
+7 Series,2019,Middle East,White,Electric,Automatic,1.9,165987,70704,3499,Low
+i3,2019,Europe,Black,Diesel,Automatic,2.6,150901,111466,236,Low
+X1,2020,Middle East,Blue,Hybrid,Manual,2.1,136086,111122,989,Low
+5 Series,2011,Europe,Grey,Hybrid,Automatic,2.7,53566,60571,9253,High
+X5,2011,Middle East,Blue,Hybrid,Automatic,4.2,3652,92692,845,Low
+M5,2014,Asia,Silver,Petrol,Manual,3.1,14198,109828,3382,Low
+M3,2011,Africa,Black,Electric,Automatic,2.2,59875,94989,3435,Low
+i3,2014,Middle East,Silver,Petrol,Manual,4.6,188577,54031,6487,Low
+X3,2019,South America,Blue,Petrol,Manual,2.4,196091,117984,6251,Low
+X5,2020,Europe,Blue,Electric,Automatic,4.8,819,109874,2581,Low
+i3,2014,South America,Black,Petrol,Manual,3,47022,71132,5284,Low
+M5,2013,Asia,Red,Petrol,Manual,2.5,166215,106997,1793,Low
+i8,2010,Asia,Red,Hybrid,Manual,2.7,81740,64864,2771,Low
+i3,2010,Middle East,Black,Diesel,Manual,1.5,162727,37610,105,Low
+M3,2023,Middle East,Grey,Petrol,Automatic,4.7,131690,101536,7277,High
+3 Series,2016,Europe,White,Hybrid,Manual,4.7,133280,92164,9629,High
+7 Series,2018,South America,Grey,Electric,Automatic,2.6,174450,49658,9058,High
+X1,2014,North America,White,Diesel,Manual,2.6,158073,53659,2730,Low
+3 Series,2017,South America,Grey,Electric,Manual,3.5,132982,38080,6974,Low
+X3,2018,Middle East,Grey,Diesel,Automatic,3.1,14849,81875,3445,Low
+M3,2023,South America,Blue,Electric,Manual,1.8,93510,79710,4415,Low
+M3,2013,Middle East,Grey,Petrol,Automatic,3.8,168538,93051,4140,Low
+X5,2012,Africa,Blue,Hybrid,Manual,3.1,90792,77049,6467,Low
+i8,2024,Europe,Silver,Petrol,Manual,3.4,174807,38732,9937,High
+X3,2023,Europe,Silver,Petrol,Automatic,1.9,109259,103824,4689,Low
+M5,2022,North America,Blue,Petrol,Automatic,1.6,168660,115293,7821,High
+3 Series,2017,Africa,Red,Hybrid,Automatic,4.9,187000,112833,1139,Low
+X3,2012,Asia,Black,Petrol,Manual,3.1,190528,64251,8355,High
+i8,2013,Europe,Red,Diesel,Automatic,2.9,23651,51805,6172,Low
+X5,2016,Africa,Blue,Hybrid,Automatic,4.7,114842,88243,4078,Low
+i3,2012,Middle East,Grey,Electric,Automatic,4.3,103664,30239,1341,Low
+X1,2015,North America,Blue,Diesel,Automatic,3.4,1685,35124,2753,Low
+i3,2017,Middle East,Silver,Petrol,Automatic,2.3,24721,79563,5699,Low
+X5,2011,Europe,Black,Petrol,Manual,1.8,84706,109315,1708,Low
+M3,2011,South America,Red,Hybrid,Automatic,3.2,119472,60656,416,Low
+M5,2017,North America,Blue,Petrol,Manual,2.5,127941,68546,1901,Low
+3 Series,2013,Europe,Blue,Hybrid,Manual,3,131089,108285,2954,Low
+i8,2017,Europe,Black,Electric,Automatic,3.6,157017,96117,3994,Low
+X6,2021,Europe,Black,Diesel,Manual,1.9,35654,101776,9808,High
+7 Series,2012,North America,Silver,Hybrid,Automatic,3.9,142037,76380,3981,Low
+i3,2021,Africa,Blue,Diesel,Automatic,2.2,165116,70228,7173,High
+i8,2011,Asia,Black,Electric,Automatic,2.5,195455,99821,9212,High
+X5,2015,Middle East,White,Hybrid,Automatic,1.7,26817,55491,1085,Low
+M3,2014,South America,Red,Petrol,Manual,4.6,194514,42829,5728,Low
+M3,2022,South America,Silver,Hybrid,Automatic,2.4,30585,72998,3184,Low
+X3,2016,South America,Silver,Petrol,Automatic,3.4,49130,109143,2214,Low
+i8,2013,North America,Red,Hybrid,Automatic,4.3,1817,119798,6678,Low
+X6,2014,North America,Grey,Diesel,Automatic,3.5,24178,99607,913,Low
+M5,2021,Middle East,Black,Hybrid,Automatic,1.9,51997,101210,5561,Low
+X1,2014,North America,Red,Electric,Manual,2.4,157300,118494,6004,Low
+X3,2015,South America,White,Diesel,Automatic,4.3,176825,50530,933,Low
+i3,2023,Middle East,Grey,Electric,Automatic,1.5,93205,76655,4363,Low
+7 Series,2011,Asia,Blue,Hybrid,Automatic,2.8,157549,61308,3843,Low
+X5,2011,Asia,Black,Petrol,Manual,3,154063,109828,362,Low
+X5,2015,North America,White,Petrol,Manual,3.6,81288,70342,9370,High
+i3,2017,Africa,Red,Electric,Automatic,3.4,199111,109106,899,Low
+M5,2013,North America,Blue,Diesel,Manual,3.3,64116,49891,7918,High
+M3,2021,South America,Blue,Hybrid,Automatic,2.8,103793,49476,5243,Low
+i8,2011,Asia,White,Hybrid,Automatic,4.5,138118,114209,7070,High
+X1,2021,Europe,Silver,Diesel,Manual,2.5,74473,69908,7713,High
+i3,2013,Asia,Red,Diesel,Manual,4.3,122677,54115,3451,Low
+M3,2018,Middle East,White,Hybrid,Automatic,4.8,34643,48111,8922,High
+i3,2021,Asia,White,Petrol,Automatic,3.1,174541,76136,6847,Low
+M3,2010,Asia,Black,Diesel,Automatic,4,56627,41225,2845,Low
+M5,2017,South America,Silver,Petrol,Automatic,2.7,88890,50985,1999,Low
+X5,2019,Asia,Blue,Diesel,Manual,2.2,171470,30581,3276,Low
+X5,2016,Europe,Red,Diesel,Automatic,4.8,180098,108890,4703,Low
+M3,2014,Asia,Black,Diesel,Automatic,3.2,14684,87733,8511,High
+M5,2012,North America,Blue,Petrol,Manual,2.2,62564,93690,8501,High
+X1,2022,North America,Black,Petrol,Manual,2.9,144365,39889,7251,High
+M3,2022,Europe,Red,Diesel,Automatic,2.7,194943,114270,776,Low
+3 Series,2016,Middle East,Grey,Electric,Automatic,3.7,140222,31245,9865,High
+7 Series,2019,Europe,Blue,Electric,Manual,3,94927,68288,6604,Low
+7 Series,2020,South America,Blue,Electric,Automatic,4.8,177577,114079,4316,Low
+5 Series,2014,Middle East,White,Petrol,Manual,3.7,119118,59422,2925,Low
+M5,2011,Asia,Red,Electric,Automatic,2.2,156644,100199,1532,Low
+X5,2018,Africa,Red,Electric,Manual,3.1,119067,113008,9394,High
+M5,2018,North America,Blue,Petrol,Manual,4.4,51485,62867,4248,Low
+M3,2015,Asia,Red,Hybrid,Manual,2,41514,116902,8897,High
+5 Series,2020,North America,Black,Electric,Manual,4.9,176687,111117,7754,High
+M5,2019,Asia,Blue,Hybrid,Automatic,5,49184,78278,7337,High
+3 Series,2013,South America,Silver,Petrol,Automatic,3,83695,95560,8040,High
+3 Series,2013,South America,Black,Electric,Manual,2.6,133330,59720,4469,Low
+X1,2015,South America,Black,Electric,Automatic,3.2,5070,53307,4758,Low
+i8,2010,Asia,White,Diesel,Automatic,4.5,170127,40085,9153,High
+M5,2018,South America,White,Hybrid,Automatic,4.1,76130,109196,1107,Low
+X6,2018,Europe,Black,Electric,Automatic,2.1,176440,65924,9826,High
+X6,2017,Europe,Red,Petrol,Automatic,3.9,187435,90725,9738,High
+M5,2019,Africa,White,Petrol,Manual,3,96900,31345,9628,High
+M3,2022,South America,Grey,Diesel,Automatic,2.8,163955,118318,7649,High
+i8,2024,South America,Red,Hybrid,Manual,5,92663,39913,1859,Low
+X5,2010,South America,Blue,Petrol,Manual,3.6,98043,61653,813,Low
+X5,2012,North America,Silver,Diesel,Automatic,4.3,190159,36804,3615,Low
+M5,2020,North America,Blue,Diesel,Automatic,2.3,28934,64804,6200,Low
+3 Series,2011,Asia,Silver,Petrol,Automatic,4.5,60437,77981,6008,Low
+X5,2011,Middle East,Silver,Hybrid,Manual,3.9,72264,80285,9374,High
+i8,2014,South America,Black,Electric,Manual,3.7,9651,46770,6807,Low
+X1,2012,South America,Red,Diesel,Manual,3.3,127598,42682,4785,Low
+X1,2024,Africa,Grey,Diesel,Automatic,2,23827,76805,7562,High
+i3,2020,Europe,Silver,Petrol,Automatic,3.2,89837,115554,6278,Low
+M5,2019,South America,White,Diesel,Manual,3.1,192690,37177,5946,Low
+X6,2011,Africa,Black,Petrol,Automatic,4.2,184166,73488,6955,Low
+5 Series,2011,Asia,Black,Hybrid,Automatic,3,122634,82702,8447,High
+X3,2015,Middle East,Black,Petrol,Automatic,4.6,42470,90974,2045,Low
+5 Series,2016,Africa,White,Electric,Manual,4.3,97796,34578,9352,High
+7 Series,2012,South America,Silver,Petrol,Manual,3.8,93073,102551,6709,Low
+7 Series,2021,South America,Blue,Diesel,Automatic,3.5,171939,30487,8987,High
+7 Series,2010,North America,Silver,Hybrid,Automatic,3,143327,66994,4031,Low
+M5,2015,Asia,Black,Electric,Automatic,4.4,15464,84812,4846,Low
+7 Series,2014,Africa,White,Petrol,Manual,2.1,14185,100494,7975,High
+M3,2010,Europe,Blue,Electric,Automatic,2.3,146471,106372,5632,Low
+X1,2020,Asia,Red,Electric,Automatic,2,192921,41036,7014,High
+X3,2014,Asia,Grey,Petrol,Manual,4.4,39363,75379,2447,Low
+i3,2014,Europe,Grey,Electric,Automatic,2.2,24912,114014,7072,High
+5 Series,2015,Africa,Red,Hybrid,Automatic,4.3,103831,92923,9765,High
+i8,2017,Asia,Red,Hybrid,Manual,4.3,25646,92680,6142,Low
+X6,2013,Middle East,Blue,Hybrid,Manual,3.2,62711,92801,8817,High
+M5,2015,Africa,Silver,Hybrid,Manual,3.2,177818,74826,769,Low
+X5,2024,South America,Red,Electric,Automatic,3.1,77834,77887,6346,Low
+X6,2016,Asia,Black,Petrol,Manual,3.9,96148,107569,5698,Low
+X5,2020,Middle East,Blue,Hybrid,Automatic,2,14779,109700,4635,Low
+X6,2010,Middle East,Black,Diesel,Manual,4.7,51318,84989,5401,Low
+3 Series,2019,Africa,Grey,Petrol,Manual,4.4,15984,31252,8249,High
+M5,2021,Europe,Blue,Electric,Manual,2.4,27204,88604,1889,Low
+X5,2011,Middle East,Black,Electric,Manual,2.8,158326,95368,4684,Low
+X1,2011,Middle East,Grey,Petrol,Automatic,3.6,17226,54493,4691,Low
+X6,2018,Africa,White,Hybrid,Manual,2.5,189717,111468,7673,High
+5 Series,2012,South America,Silver,Petrol,Automatic,1.6,77547,84087,592,Low
+X3,2017,Africa,Blue,Electric,Manual,3.2,112334,46595,3726,Low
+7 Series,2022,South America,Red,Hybrid,Manual,2.2,85677,108358,722,Low
+3 Series,2016,Africa,White,Diesel,Automatic,3.7,149141,89311,6930,Low
+X5,2012,Europe,Red,Electric,Automatic,2.8,128019,45135,7903,High
+X3,2016,Middle East,Silver,Diesel,Manual,2.1,40959,107393,3009,Low
+X1,2013,Africa,Red,Hybrid,Manual,2.8,188363,91010,5985,Low
+M3,2023,South America,Red,Hybrid,Automatic,4.3,39420,95807,4235,Low
+5 Series,2019,Europe,Blue,Petrol,Manual,2.6,50762,41337,5956,Low
+X6,2018,North America,Black,Petrol,Automatic,2.3,167142,52490,1741,Low
+i3,2022,South America,White,Hybrid,Automatic,3,171891,78185,6692,Low
+X5,2015,Africa,White,Electric,Automatic,4.1,52153,96930,9942,High
+7 Series,2019,North America,Black,Petrol,Automatic,4.5,12790,90670,9808,High
+X1,2017,North America,Red,Diesel,Manual,3.8,90848,30933,8406,High
+M3,2020,North America,Silver,Hybrid,Automatic,3,145908,78064,8845,High
+i3,2020,South America,Silver,Electric,Manual,2.8,77710,93156,3902,Low
+i3,2023,Asia,Red,Diesel,Automatic,3.7,131851,82798,8792,High
+X5,2017,South America,Black,Petrol,Manual,3.3,76740,81530,6725,Low
+M3,2022,South America,Red,Electric,Manual,2.6,21010,92102,2791,Low
+3 Series,2012,North America,White,Diesel,Manual,2.3,70941,111227,6168,Low
+M5,2024,Europe,Blue,Petrol,Automatic,1.8,186887,91494,8816,High
+X3,2014,South America,Silver,Diesel,Manual,2.2,21942,103720,3202,Low
+5 Series,2017,North America,Red,Hybrid,Automatic,1.7,176146,54924,193,Low
+7 Series,2011,South America,Grey,Electric,Automatic,4.3,53192,65210,1008,Low
+i8,2024,Africa,Blue,Electric,Automatic,3.1,123793,96224,2141,Low
+M3,2014,North America,White,Petrol,Automatic,3.1,70528,78728,8304,High
+X5,2016,Middle East,Grey,Electric,Automatic,3.4,139632,84846,1178,Low
+3 Series,2010,South America,Blue,Petrol,Manual,2.6,50536,116971,2382,Low
+X3,2017,Asia,Black,Hybrid,Automatic,2.2,40729,48535,1936,Low
+X3,2014,South America,Silver,Diesel,Manual,3.8,130902,39584,4686,Low
+3 Series,2021,South America,Silver,Hybrid,Manual,4.8,125551,31150,2325,Low
+X3,2014,South America,Black,Hybrid,Automatic,3.5,34909,49350,6481,Low
+M5,2016,Middle East,Black,Petrol,Manual,4.5,149796,38374,4961,Low
+X6,2020,Europe,White,Petrol,Manual,1.5,160220,37240,1943,Low
+M3,2011,South America,Silver,Hybrid,Automatic,3.3,22411,32825,5209,Low
+7 Series,2011,Asia,Grey,Petrol,Automatic,5,98533,55326,7503,High
+i8,2021,Europe,Silver,Hybrid,Automatic,5,95554,106877,2910,Low
+3 Series,2024,Africa,White,Hybrid,Manual,2.7,39788,83754,2102,Low
+M3,2012,North America,Black,Hybrid,Automatic,3.6,55583,104613,5253,Low
+7 Series,2017,Asia,White,Hybrid,Automatic,3.1,50813,67082,3888,Low
+X6,2015,Asia,Blue,Petrol,Automatic,4.2,94890,78397,6267,Low
+X5,2018,Asia,Grey,Hybrid,Automatic,3.9,77818,101379,602,Low
+X3,2019,Asia,Red,Petrol,Manual,4.2,140768,107749,1399,Low
+X3,2015,Asia,Silver,Petrol,Automatic,2.1,127880,72440,4266,Low
+M3,2014,North America,Blue,Diesel,Automatic,3.2,121804,43805,2847,Low
+M5,2024,Europe,Grey,Hybrid,Automatic,4.6,169938,93825,5325,Low
+i8,2019,Africa,Red,Petrol,Automatic,1.6,179986,116072,1195,Low
+i3,2024,North America,Silver,Petrol,Manual,2.2,38825,80706,3188,Low
+7 Series,2021,Europe,Grey,Hybrid,Manual,1.7,8059,75846,1962,Low
+X6,2024,South America,Blue,Electric,Automatic,2.9,133488,37795,4271,Low
+5 Series,2022,Europe,Silver,Diesel,Automatic,2.6,55672,95293,5106,Low
+M3,2022,Middle East,Grey,Petrol,Automatic,1.5,144650,99622,9307,High
+5 Series,2022,Africa,Black,Petrol,Manual,2.6,75921,58290,5186,Low
+5 Series,2010,Middle East,Black,Hybrid,Manual,2.5,54952,75942,8138,High
+X1,2018,North America,Black,Electric,Automatic,4.6,12131,96669,6211,Low
+X3,2018,Asia,Blue,Petrol,Automatic,2,32198,111428,7897,High
+5 Series,2019,Middle East,Blue,Electric,Automatic,4.2,104060,82773,3842,Low
+i8,2010,South America,Silver,Hybrid,Automatic,4,173886,35441,3884,Low
+5 Series,2012,South America,Black,Petrol,Automatic,3.6,120201,91383,1862,Low
+i3,2010,Africa,Red,Petrol,Automatic,1.9,78099,54309,2038,Low
+M3,2019,South America,White,Petrol,Manual,4.4,66741,50597,1829,Low
+X3,2021,Europe,Blue,Petrol,Manual,2.3,19207,116336,7049,High
+M5,2013,Asia,White,Hybrid,Automatic,3.3,69562,44329,7668,High
+7 Series,2022,South America,Black,Petrol,Manual,4.4,121532,34119,8025,High
+M3,2010,Middle East,Silver,Hybrid,Manual,3.3,90694,51527,4719,Low
+7 Series,2011,Africa,Blue,Diesel,Manual,2.9,97224,61123,5544,Low
+i3,2024,Europe,Grey,Petrol,Manual,4.4,115901,96833,998,Low
+i8,2015,North America,Blue,Hybrid,Manual,2.7,12192,66367,8191,High
+X3,2011,Middle East,White,Diesel,Automatic,2.9,9934,114907,4188,Low
+X1,2011,Africa,Red,Hybrid,Automatic,2.4,16136,86449,6111,Low
+5 Series,2014,North America,Red,Diesel,Manual,2.5,6242,68111,4483,Low
+X1,2023,Europe,Silver,Electric,Automatic,3.3,76763,110653,2368,Low
+X3,2011,North America,Silver,Diesel,Manual,3.8,139739,69294,6024,Low
+M3,2014,Asia,White,Hybrid,Manual,3.5,7760,79798,937,Low
+X1,2015,Europe,White,Diesel,Automatic,2.4,69127,31408,4819,Low
+7 Series,2012,North America,Red,Diesel,Automatic,4.5,10674,86849,7695,High
+X1,2021,South America,Blue,Petrol,Manual,2,112301,115977,6297,Low
+X5,2024,North America,Black,Hybrid,Automatic,4.9,197845,92188,9899,High
+3 Series,2018,North America,Red,Petrol,Automatic,2.7,147281,86407,5004,Low
+i8,2017,Middle East,White,Electric,Automatic,3.9,139758,87659,4798,Low
+X1,2014,Middle East,White,Diesel,Automatic,2.3,74665,60033,3240,Low
+M5,2013,Asia,Red,Electric,Manual,4.2,115810,39217,304,Low
+i8,2022,Africa,Blue,Diesel,Automatic,4.7,152052,117782,3008,Low
+X5,2021,Europe,Black,Petrol,Automatic,3.8,7048,114018,3413,Low
+X5,2013,Europe,Grey,Diesel,Manual,1.8,70906,58576,5891,Low
+X1,2019,Europe,White,Electric,Manual,1.9,154125,102873,8414,High
+X1,2010,Africa,White,Electric,Manual,4.4,33627,110306,859,Low
+5 Series,2015,Asia,Grey,Petrol,Manual,2.4,11246,65382,1287,Low
+X6,2014,Middle East,Red,Electric,Manual,3.2,145539,117398,3863,Low
+i8,2014,Europe,Blue,Petrol,Automatic,4.6,126985,111918,4409,Low
+i8,2017,South America,White,Petrol,Automatic,3.4,132352,80877,9189,High
+X1,2010,Europe,Red,Diesel,Manual,4.3,73851,50212,356,Low
+i8,2023,South America,Grey,Electric,Manual,4.5,169070,74658,6628,Low
+X3,2016,Asia,Black,Petrol,Automatic,3.8,19570,53065,9577,High
+i3,2010,North America,Silver,Diesel,Automatic,2.1,83331,35421,6122,Low
+M3,2013,Europe,Blue,Diesel,Automatic,2.6,38423,66299,7746,High
+M3,2020,North America,Red,Hybrid,Manual,2.6,84529,115995,7621,High
+M5,2012,Asia,Red,Hybrid,Manual,3.5,31093,38704,952,Low
+X6,2019,North America,White,Petrol,Automatic,3.6,132103,38391,2612,Low
+i8,2023,Europe,Red,Hybrid,Automatic,4.8,175428,81784,4844,Low
+X1,2013,Asia,Black,Hybrid,Automatic,3.5,40989,32802,3470,Low
+X3,2011,Middle East,Red,Diesel,Automatic,2.1,183679,92893,242,Low
+M3,2012,Africa,White,Petrol,Automatic,4.3,71143,53554,1339,Low
+X5,2017,South America,Red,Electric,Manual,2.5,93209,97745,6940,Low
+7 Series,2012,South America,White,Diesel,Automatic,2.4,62697,61108,7857,High
+X6,2024,Africa,White,Hybrid,Manual,4,89785,80019,5200,Low
+i3,2016,Africa,Blue,Diesel,Automatic,4.2,195774,110338,1596,Low
+M5,2016,Middle East,Grey,Electric,Automatic,2.5,141488,116314,8716,High
+5 Series,2014,North America,Red,Diesel,Automatic,2.9,73444,101115,5278,Low
+X3,2015,Middle East,Grey,Petrol,Automatic,3.9,78699,118183,3966,Low
+i8,2013,North America,Red,Diesel,Automatic,3.3,90736,77611,3699,Low
+i3,2012,Asia,Black,Petrol,Automatic,4.7,192413,114851,1342,Low
+3 Series,2015,North America,Red,Electric,Manual,2.7,58829,61136,1946,Low
+X5,2017,North America,Blue,Electric,Automatic,2.9,11418,60460,8635,High
+X1,2015,Africa,Black,Petrol,Automatic,4.6,161040,85125,2667,Low
+i3,2015,Europe,Blue,Electric,Manual,3.8,151315,69265,7449,High
+M5,2022,Middle East,White,Diesel,Manual,1.5,151004,90081,522,Low
+M5,2010,Asia,Red,Electric,Manual,3.9,32088,78850,9089,High
+X6,2021,Middle East,White,Hybrid,Manual,3.6,199243,37364,5371,Low
+M3,2020,South America,Silver,Electric,Automatic,2.8,132243,76610,8573,High
+M3,2020,North America,Grey,Hybrid,Automatic,4.5,172488,100999,3246,Low
+X5,2019,Africa,Blue,Electric,Manual,2.1,161177,95908,2775,Low
+7 Series,2024,Europe,White,Diesel,Manual,2.2,162681,74026,2133,Low
+i3,2014,South America,Red,Hybrid,Automatic,4.8,160988,111758,3224,Low
+i8,2024,South America,Grey,Electric,Manual,2.4,145951,109694,4910,Low
+3 Series,2012,Middle East,Black,Electric,Manual,4.4,75519,48931,2336,Low
+i8,2019,South America,Blue,Electric,Manual,3.9,165556,88718,9847,High
+i8,2014,Africa,Grey,Diesel,Automatic,2.3,187219,78920,5168,Low
+X3,2023,Europe,White,Electric,Automatic,1.7,57556,45904,3173,Low
+X5,2018,Africa,Silver,Electric,Automatic,3.1,84574,43982,3057,Low
+X3,2011,South America,Black,Hybrid,Manual,4.8,108028,99883,2054,Low
+7 Series,2021,Africa,Red,Hybrid,Manual,2.9,73144,56419,6298,Low
+i3,2014,Europe,Grey,Petrol,Manual,1.9,15651,33741,9650,High
+M5,2023,Middle East,Black,Electric,Automatic,1.7,178546,55509,4787,Low
+X1,2024,Asia,Grey,Diesel,Manual,3,38653,50874,1874,Low
+i3,2018,Asia,Grey,Petrol,Manual,4.9,11860,109094,3835,Low
+M3,2018,Asia,Silver,Diesel,Manual,1.8,103705,112971,6439,Low
+M5,2018,Middle East,Blue,Diesel,Automatic,1.5,77967,99193,5798,Low
+5 Series,2018,Europe,Blue,Diesel,Automatic,3.3,170305,95728,6699,Low
+X6,2019,South America,Red,Hybrid,Automatic,4.2,9169,46122,5616,Low
+X3,2023,Africa,Grey,Petrol,Automatic,1.8,92315,37343,4239,Low
+X6,2023,Europe,Silver,Electric,Automatic,4.4,114985,60505,5538,Low
+M5,2018,Asia,Silver,Electric,Manual,3.7,69574,104642,515,Low
+5 Series,2015,Africa,Black,Hybrid,Automatic,2.9,108715,83315,4413,Low
+X5,2010,South America,Blue,Diesel,Manual,3,59647,65296,4694,Low
+M5,2023,Middle East,White,Hybrid,Manual,3.1,194001,105713,7542,High
+X1,2021,South America,Red,Hybrid,Manual,3.2,60610,117878,4632,Low
+i8,2010,Africa,Grey,Hybrid,Manual,4.3,71178,62149,8478,High
+X1,2017,North America,Black,Hybrid,Manual,3.7,112305,112685,8717,High
+X5,2019,Middle East,Red,Diesel,Manual,4.3,21303,72700,9881,High
+i8,2022,Middle East,Red,Petrol,Automatic,4.5,65711,56398,8457,High
+5 Series,2012,Europe,Blue,Electric,Manual,2.2,38044,96905,1529,Low
+i8,2016,South America,Blue,Electric,Manual,2.3,12770,47343,1838,Low
+5 Series,2022,North America,Blue,Petrol,Manual,3.2,71896,50918,9851,High
+3 Series,2010,Africa,Blue,Hybrid,Automatic,3.5,69419,62774,4225,Low
+X5,2010,North America,Black,Diesel,Manual,2.3,156301,79915,9141,High
+3 Series,2020,North America,Blue,Electric,Automatic,1.6,124802,109452,3309,Low
+i3,2023,North America,Black,Electric,Automatic,1.7,81905,89800,6939,Low
+M5,2020,North America,Grey,Hybrid,Automatic,2.5,142412,77804,4847,Low
+7 Series,2020,North America,Blue,Petrol,Manual,2.3,156148,58753,2984,Low
+X3,2017,Europe,White,Hybrid,Manual,4,6314,52002,3635,Low
+X3,2017,Middle East,Blue,Hybrid,Manual,3.2,38454,49073,5743,Low
+X3,2015,Middle East,Blue,Electric,Automatic,2.2,155187,45384,154,Low
+5 Series,2020,Asia,White,Diesel,Manual,3.9,172156,115648,6845,Low
+i8,2022,Africa,Silver,Hybrid,Manual,2.9,69547,81403,469,Low
+X5,2010,North America,White,Petrol,Automatic,4.2,36199,39993,5185,Low
+M5,2018,Europe,Silver,Electric,Automatic,4.8,134956,71167,1854,Low
+i3,2021,North America,Black,Hybrid,Manual,2,186577,40218,1492,Low
+X1,2017,Africa,Blue,Diesel,Manual,2.5,75562,65888,6740,Low
+X6,2022,North America,Silver,Hybrid,Manual,2.5,3988,53399,8530,High
+3 Series,2013,Asia,Red,Hybrid,Automatic,2.5,147583,49779,1631,Low
+M5,2022,Middle East,Black,Diesel,Manual,2.6,90723,108955,8606,High
+i3,2012,South America,Red,Electric,Manual,3.9,2096,106398,593,Low
+M3,2023,Europe,Grey,Petrol,Manual,4.2,16382,59732,3335,Low
+i3,2012,Africa,Black,Petrol,Manual,2.8,48471,79386,8164,High
+X5,2023,Asia,Red,Hybrid,Automatic,2.6,38695,70805,2185,Low
+i3,2015,North America,Blue,Electric,Automatic,4.8,95911,98555,1522,Low
+i3,2019,Europe,White,Hybrid,Manual,3,24937,113015,3365,Low
+7 Series,2018,Africa,White,Hybrid,Manual,3.5,11211,80252,954,Low
+X5,2024,South America,White,Electric,Automatic,2.6,114761,34985,7498,High
+X1,2019,Africa,White,Electric,Manual,2.1,100789,46438,1190,Low
+5 Series,2010,Africa,White,Diesel,Automatic,4.7,33753,110812,3311,Low
+X5,2012,Middle East,Grey,Petrol,Manual,4.3,57729,87028,8985,High
+7 Series,2015,North America,Black,Electric,Automatic,4.6,73114,75801,3494,Low
+5 Series,2021,Europe,Grey,Petrol,Manual,3.9,131823,60223,2816,Low
+X1,2017,South America,White,Hybrid,Manual,3.2,199759,62749,5304,Low
+M5,2022,Africa,Red,Hybrid,Manual,3,114018,71819,4838,Low
+7 Series,2022,Europe,Silver,Electric,Automatic,2.9,150488,75252,5565,Low
+5 Series,2011,Middle East,Grey,Petrol,Automatic,2.2,11260,115960,4199,Low
+M5,2021,South America,Grey,Electric,Manual,3.5,135870,62692,3897,Low
+3 Series,2011,South America,Black,Hybrid,Manual,2.3,196346,90532,4475,Low
+i8,2023,Europe,Silver,Petrol,Manual,2.4,77259,97872,5257,Low
+X1,2019,North America,White,Electric,Manual,3.7,7457,97853,9219,High
+5 Series,2012,Middle East,Black,Hybrid,Manual,3,166954,101589,4717,Low
+X5,2024,South America,Red,Electric,Manual,2.7,91051,107816,9144,High
+M5,2023,Africa,Blue,Hybrid,Automatic,2.2,172237,54349,3849,Low
+X3,2024,North America,Blue,Hybrid,Manual,4.3,138359,99649,6736,Low
+X3,2015,Middle East,Silver,Petrol,Manual,4.7,82357,107642,4737,Low
+3 Series,2024,Europe,Black,Petrol,Automatic,3.5,138446,60450,8313,High
+X5,2016,Africa,Red,Diesel,Manual,2.1,25647,53839,4425,Low
+X1,2016,Africa,Black,Diesel,Manual,3.3,54238,105318,3131,Low
+i3,2021,North America,Black,Petrol,Manual,2.8,153047,78159,5301,Low
+X1,2010,Middle East,Grey,Diesel,Manual,4.5,26493,107374,6025,Low
+7 Series,2022,Africa,Silver,Hybrid,Automatic,1.7,103765,54719,7289,High
+7 Series,2016,Asia,Grey,Diesel,Automatic,2,21590,111340,6364,Low
+3 Series,2023,Europe,Blue,Hybrid,Manual,2,176969,68501,207,Low
+X6,2020,Europe,Red,Hybrid,Manual,2.7,100005,116792,7548,High
+3 Series,2019,Asia,Blue,Hybrid,Manual,1.7,8094,117752,2191,Low
+7 Series,2024,North America,Grey,Electric,Automatic,4.4,159273,101843,1005,Low
+i8,2020,South America,Blue,Electric,Manual,2.2,178388,74280,1957,Low
+X5,2016,Middle East,Blue,Petrol,Manual,4.8,82991,76797,703,Low
+X6,2016,Africa,Blue,Hybrid,Automatic,3,89766,43065,8303,High
+3 Series,2017,South America,Grey,Electric,Automatic,3.3,20840,72900,9733,High
+i8,2010,Middle East,White,Electric,Manual,2,94326,112507,1257,Low
+X5,2016,Africa,White,Petrol,Manual,4.3,100881,94621,4749,Low
+i8,2014,Asia,Red,Petrol,Automatic,3.3,198026,34549,4046,Low
+X1,2022,South America,Black,Electric,Automatic,4.4,84922,101419,7557,High
+7 Series,2012,Asia,Black,Diesel,Manual,2.8,161118,37447,9884,High
+i8,2017,Middle East,Blue,Electric,Manual,2.7,73274,117693,1932,Low
+X1,2016,South America,Grey,Hybrid,Automatic,3.8,87886,98339,9716,High
+X3,2010,Asia,Black,Electric,Manual,2.1,7201,35100,5171,Low
+X5,2020,Europe,White,Diesel,Automatic,3.5,148987,33261,7885,High
+i8,2010,Europe,Black,Diesel,Automatic,2.7,61202,101207,4163,Low
+5 Series,2021,Europe,Blue,Petrol,Automatic,3,39182,75835,2323,Low
+7 Series,2023,Europe,Grey,Petrol,Manual,4.1,148257,83672,1021,Low
+M3,2012,South America,Silver,Diesel,Manual,2.8,157169,68019,1889,Low
+i8,2020,Middle East,Red,Diesel,Manual,4.6,133862,98191,3685,Low
+3 Series,2011,South America,Silver,Diesel,Manual,2.2,24208,108874,9045,High
+3 Series,2020,Africa,Blue,Diesel,Automatic,3.5,43829,111537,4585,Low
+X6,2022,Europe,White,Petrol,Automatic,2.6,179168,102542,8047,High
+i8,2024,North America,Blue,Electric,Manual,3.9,168603,81084,2136,Low
+X6,2012,Asia,Blue,Diesel,Manual,2.6,142812,49034,8051,High
+M5,2022,North America,Black,Electric,Automatic,4.7,131709,81975,434,Low
+X6,2011,Middle East,Grey,Petrol,Manual,2.3,157726,112770,9156,High
+X5,2019,Europe,Silver,Electric,Automatic,4.2,52896,112242,6139,Low
+X6,2010,Africa,White,Diesel,Automatic,2,63295,51312,5753,Low
+M3,2011,South America,Black,Petrol,Automatic,4.1,21205,100311,9494,High
+i3,2014,Africa,Blue,Hybrid,Automatic,2,164740,90353,9675,High
+i3,2017,Africa,White,Electric,Manual,4,49418,35854,9544,High
+M3,2014,Asia,Silver,Diesel,Manual,3,59726,110104,5543,Low
+X6,2022,South America,Black,Electric,Automatic,4.2,102553,70797,962,Low
+3 Series,2019,Middle East,White,Petrol,Automatic,2.1,124003,100477,586,Low
+X6,2022,Europe,Red,Hybrid,Automatic,2.1,7505,45684,5005,Low
+i3,2016,Europe,Silver,Hybrid,Manual,2.1,150568,93240,9984,High
+5 Series,2010,Middle East,Red,Diesel,Automatic,3.5,54935,112205,9931,High
+X3,2018,North America,Blue,Hybrid,Automatic,2.1,186261,119872,6785,Low
+X6,2014,North America,Grey,Electric,Automatic,2.4,171073,104312,7271,High
+X1,2012,Middle East,Grey,Diesel,Manual,1.6,188457,88362,7596,High
+7 Series,2016,Middle East,Red,Diesel,Manual,3.3,58359,69525,482,Low
+i8,2017,Europe,White,Electric,Manual,2,138306,40208,8029,High
+X3,2013,Europe,Blue,Petrol,Automatic,4.9,181683,30173,9036,High
+5 Series,2019,Africa,Grey,Diesel,Manual,1.8,194310,42650,1268,Low
+X5,2014,Asia,Red,Electric,Manual,2.9,25515,58917,3712,Low
+M5,2019,Africa,Black,Hybrid,Automatic,2.3,63441,85319,9353,High
+5 Series,2015,Middle East,Blue,Electric,Automatic,3.9,30587,30134,342,Low
+M3,2014,Middle East,Silver,Electric,Manual,2.3,36024,37368,4586,Low
+3 Series,2015,North America,Silver,Electric,Manual,3.6,23255,119564,9484,High
+7 Series,2024,Africa,Grey,Hybrid,Manual,4.2,177149,81866,7494,High
+3 Series,2018,Middle East,Silver,Diesel,Automatic,4.3,152172,74011,5936,Low
+M5,2011,Middle East,White,Hybrid,Automatic,2.3,72858,70087,9750,High
+i3,2021,South America,White,Electric,Automatic,1.8,83929,48077,5363,Low
+X5,2021,Middle East,Blue,Electric,Manual,1.8,100079,97220,7342,High
+X5,2011,South America,White,Electric,Manual,3.9,111818,105245,7793,High
+M5,2024,Europe,Red,Petrol,Manual,3.7,128456,116005,878,Low
+3 Series,2020,Middle East,Red,Electric,Automatic,3.6,11064,72096,7594,High
+X6,2022,Africa,Black,Hybrid,Automatic,3.7,98964,94963,9421,High
+M5,2017,Asia,Silver,Diesel,Manual,4.4,116173,70910,4784,Low
+7 Series,2018,Europe,Silver,Petrol,Automatic,4.7,35879,75088,5644,Low
+3 Series,2010,Middle East,Black,Diesel,Manual,4.5,66490,58247,4357,Low
+3 Series,2011,South America,Silver,Petrol,Manual,2.7,78345,81604,3657,Low
+M5,2013,North America,White,Electric,Manual,2.7,82075,69628,4545,Low
+i8,2016,Asia,White,Electric,Automatic,3.1,7409,92085,7439,High
+X6,2021,North America,Red,Petrol,Manual,3.1,15247,69860,4238,Low
+X3,2019,Africa,White,Petrol,Automatic,3.2,88336,95330,1903,Low
+5 Series,2011,Middle East,Red,Hybrid,Manual,3.9,173894,107536,5246,Low
+X1,2010,Europe,Red,Petrol,Manual,2.7,41013,37464,8833,High
+5 Series,2012,South America,White,Diesel,Automatic,3,195904,115174,5162,Low
+X6,2024,North America,Red,Petrol,Automatic,2.4,60332,73903,2713,Low
+7 Series,2024,South America,Red,Electric,Manual,3.6,43684,38292,3873,Low
+X6,2024,Africa,Red,Electric,Automatic,1.6,68355,116899,8122,High
+5 Series,2020,Europe,Silver,Electric,Manual,3.2,31982,77738,318,Low
+i8,2022,Middle East,Silver,Diesel,Automatic,3.8,96067,81262,111,Low
+7 Series,2021,Middle East,White,Diesel,Automatic,3.4,62211,36787,8879,High
+X1,2022,South America,Red,Electric,Automatic,1.6,157579,37391,4994,Low
+X1,2022,Africa,Grey,Electric,Manual,3.6,144620,92887,4061,Low
+X1,2024,Asia,Black,Petrol,Automatic,1.9,52288,87940,3431,Low
+i8,2019,Europe,Red,Petrol,Automatic,2.3,8851,56000,8313,High
+X3,2022,Europe,Black,Petrol,Manual,2.7,197678,49919,491,Low
+i3,2016,South America,Black,Electric,Automatic,3.3,35125,109879,2353,Low
+M3,2022,Middle East,Red,Petrol,Manual,2.6,135836,100852,369,Low
+X1,2024,Middle East,White,Hybrid,Automatic,2.6,175955,46764,408,Low
+7 Series,2014,Middle East,Red,Hybrid,Manual,3.3,46259,75965,3172,Low
+5 Series,2010,Africa,Silver,Diesel,Automatic,4.1,163935,34212,464,Low
+7 Series,2017,South America,Silver,Hybrid,Automatic,2.9,90382,116203,4483,Low
+X3,2010,North America,Silver,Electric,Automatic,2.9,123179,30530,5076,Low
+X1,2019,North America,Grey,Diesel,Automatic,4.7,192689,51913,8858,High
+M5,2011,Africa,Silver,Hybrid,Automatic,2.7,49280,66058,8721,High
+5 Series,2018,Middle East,White,Petrol,Automatic,2.2,1953,48740,9623,High
+X5,2024,Middle East,Red,Diesel,Automatic,4.9,65654,34204,8332,High
+X1,2016,Middle East,Black,Diesel,Automatic,3.6,96796,35286,509,Low
+X3,2017,Middle East,Grey,Hybrid,Automatic,3,152041,73963,2420,Low
+i8,2023,Africa,Black,Petrol,Manual,2.9,132042,31161,2929,Low
+M5,2011,South America,White,Diesel,Manual,3.1,18974,111586,9138,High
+i3,2016,North America,Black,Electric,Manual,4.9,46675,87523,8120,High
+3 Series,2017,South America,White,Electric,Manual,1.9,72856,95260,5695,Low
+5 Series,2019,North America,Silver,Hybrid,Manual,3.4,44241,76143,3957,Low
+7 Series,2019,Middle East,Black,Electric,Automatic,4.6,44161,91688,148,Low
+X5,2023,Africa,Grey,Diesel,Automatic,1.9,180001,103970,9554,High
+X5,2016,Africa,Red,Diesel,Automatic,4.2,173370,65872,6709,Low
+X3,2021,Africa,Blue,Electric,Automatic,4.2,169825,30158,8293,High
+i8,2016,Asia,Silver,Diesel,Manual,4.7,84544,95858,6430,Low
+X1,2018,Asia,Grey,Hybrid,Automatic,3.9,24335,53375,2805,Low
+7 Series,2014,Asia,Silver,Electric,Manual,4.3,171053,104212,5708,Low
+i3,2017,Middle East,White,Diesel,Manual,2.4,195633,91899,8329,High
+3 Series,2017,Middle East,Black,Hybrid,Automatic,2.8,124518,113397,3330,Low
+i3,2024,South America,White,Diesel,Manual,3.6,13495,82152,2683,Low
+i8,2012,Middle East,Blue,Petrol,Manual,4.9,166587,40153,2874,Low
+i8,2014,Europe,Blue,Hybrid,Manual,4.4,175613,35446,9586,High
+X1,2012,Middle East,Grey,Hybrid,Automatic,3.7,64889,49788,7973,High
+i8,2013,North America,Blue,Petrol,Automatic,4.8,55236,99224,853,Low
+M5,2023,Middle East,Grey,Hybrid,Manual,2.6,5030,94242,1001,Low
+X5,2013,South America,Grey,Diesel,Manual,4.2,89978,40540,7628,High
+X5,2010,Middle East,Silver,Diesel,Automatic,4.1,168737,82504,2867,Low
+X5,2013,Africa,Silver,Petrol,Manual,2.4,171875,117132,5917,Low
+X3,2013,South America,Silver,Electric,Automatic,4.8,100057,93019,2489,Low
+X6,2015,South America,Grey,Petrol,Manual,4.2,59116,72878,645,Low
+X5,2017,Europe,Red,Electric,Automatic,4.4,33170,89975,6862,Low
+X5,2019,South America,Red,Electric,Automatic,2.6,12589,40140,5469,Low
+M5,2024,North America,Grey,Electric,Automatic,4.8,173891,56120,3860,Low
+i8,2018,South America,Blue,Electric,Manual,2.7,27020,74727,4511,Low
+i3,2024,Europe,White,Diesel,Automatic,1.7,28257,102539,4015,Low
+X3,2020,Africa,Grey,Hybrid,Manual,2,100178,45402,6010,Low
+M3,2017,Asia,Silver,Hybrid,Manual,4.7,80104,109411,9244,High
+3 Series,2020,Africa,White,Diesel,Manual,3.7,192220,119909,1345,Low
+X6,2024,Asia,Red,Hybrid,Automatic,2.5,18942,92922,4783,Low
+i3,2014,Asia,Blue,Diesel,Manual,2.5,5916,41115,5338,Low
+5 Series,2016,Middle East,Blue,Hybrid,Manual,1.8,22897,63866,6591,Low
+X6,2012,Asia,Blue,Petrol,Automatic,4.4,82502,58951,560,Low
+3 Series,2020,Middle East,Silver,Petrol,Automatic,3.4,2087,110888,6366,Low
+X1,2024,South America,White,Diesel,Automatic,4.2,6187,45509,2189,Low
+i8,2011,Europe,White,Electric,Manual,4.5,3315,45185,2691,Low
+X6,2020,Middle East,Silver,Electric,Automatic,3,132795,93135,1780,Low
+M3,2016,Europe,Silver,Petrol,Manual,4.4,66804,65788,1112,Low
+X6,2022,Middle East,Grey,Petrol,Automatic,2.3,189612,90062,5610,Low
+5 Series,2023,Asia,White,Diesel,Automatic,2.5,100196,84743,7304,High
+3 Series,2018,Europe,Black,Electric,Automatic,4,141502,49966,7969,High
+X1,2014,Middle East,Red,Hybrid,Automatic,4.9,191487,59138,3151,Low
+X5,2021,South America,Red,Hybrid,Manual,3.2,107482,89044,7656,High
+M3,2019,Asia,Red,Electric,Automatic,4.7,88533,103574,5598,Low
+5 Series,2024,Africa,Silver,Hybrid,Manual,2.7,67051,91653,5170,Low
+i3,2012,Middle East,Silver,Hybrid,Manual,4.6,77101,92131,4681,Low
+3 Series,2020,Africa,Blue,Petrol,Automatic,1.7,9442,77830,5437,Low
+X3,2012,South America,Black,Petrol,Automatic,4.3,184444,75184,1211,Low
+M3,2016,Asia,Black,Electric,Manual,3.4,80278,64275,4867,Low
+i8,2018,Asia,Red,Hybrid,Manual,4.2,173547,41186,3695,Low
+3 Series,2017,South America,Grey,Diesel,Automatic,2.9,20162,105262,8203,High
+M3,2013,Europe,Grey,Electric,Manual,3.2,1412,50311,2891,Low
+X1,2017,Africa,Black,Petrol,Automatic,3.1,67775,86788,961,Low
+3 Series,2015,Europe,Red,Electric,Manual,2.4,112038,72747,3063,Low
+5 Series,2022,North America,Grey,Petrol,Manual,2,193270,47703,8691,High
+7 Series,2024,Europe,Red,Petrol,Automatic,2.2,84239,116336,3929,Low
+M3,2020,Africa,Silver,Electric,Manual,1.6,15479,38909,7221,High
+M5,2022,Middle East,Grey,Hybrid,Automatic,4.4,37428,81572,6119,Low
+X6,2019,Africa,White,Electric,Manual,2.3,111042,110265,2058,Low
+X6,2022,South America,Black,Hybrid,Manual,4.2,10348,115130,269,Low
+M5,2015,North America,Red,Petrol,Manual,2.1,122953,115862,4659,Low
+X1,2019,Asia,Silver,Petrol,Automatic,1.8,58477,97948,6414,Low
+X1,2022,Middle East,Black,Electric,Manual,4.9,132788,45928,5599,Low
+7 Series,2019,South America,Silver,Diesel,Automatic,3.4,12349,53945,9741,High
+M3,2021,North America,Grey,Diesel,Manual,1.7,54226,116198,7059,High
+7 Series,2014,Africa,White,Electric,Automatic,2.6,177905,95308,4164,Low
+i3,2020,South America,Red,Hybrid,Manual,1.9,36721,90415,2183,Low
+i3,2013,Africa,Silver,Hybrid,Manual,4.9,138138,86252,2256,Low
+5 Series,2017,Middle East,Black,Diesel,Manual,4.4,79531,79941,2472,Low
+X1,2015,Africa,White,Hybrid,Automatic,1.8,25712,116095,8607,High
+5 Series,2018,Africa,White,Petrol,Manual,3.3,87617,58693,4757,Low
+X1,2014,Asia,Blue,Hybrid,Manual,3,13628,44906,4007,Low
+i3,2024,Middle East,Blue,Electric,Automatic,3.8,94001,81465,4625,Low
+i3,2019,North America,Grey,Petrol,Automatic,2.6,22667,52508,8381,High
+i3,2021,Middle East,Grey,Diesel,Automatic,4.3,47964,65762,651,Low
+i3,2012,Asia,Blue,Hybrid,Manual,3.9,54847,67431,5936,Low
+X1,2014,Africa,Black,Petrol,Manual,3.2,196505,64354,7566,High
+X3,2024,Africa,Grey,Hybrid,Manual,4.3,38665,77850,6517,Low
+i8,2016,Middle East,Blue,Diesel,Manual,3,169793,31749,2406,Low
+X5,2022,North America,White,Electric,Manual,1.6,150191,105213,2719,Low
+X1,2014,Europe,Silver,Electric,Manual,4.4,54719,58745,1039,Low
+i8,2015,Asia,Red,Hybrid,Automatic,2.9,18041,38916,5727,Low
+X1,2011,Europe,Red,Hybrid,Automatic,3.4,19973,108049,5474,Low
+5 Series,2011,Africa,White,Petrol,Automatic,4,96472,55657,5980,Low
+i3,2023,South America,Blue,Petrol,Automatic,2.1,140129,60411,2846,Low
+M3,2023,North America,Blue,Diesel,Manual,4.6,183832,70977,5611,Low
+X1,2017,South America,Silver,Electric,Manual,4.5,51305,33713,6998,Low
+i3,2014,Europe,Red,Electric,Automatic,4.4,42801,91022,5349,Low
+i3,2018,Middle East,Blue,Electric,Manual,2.9,135193,38541,108,Low
+X3,2019,South America,Silver,Hybrid,Manual,1.9,51822,116475,245,Low
+M5,2010,Middle East,White,Petrol,Manual,2.4,100071,35853,2330,Low
+3 Series,2019,South America,White,Hybrid,Manual,3,128877,63408,4317,Low
+i3,2013,Asia,Silver,Hybrid,Automatic,4.9,33860,48391,6011,Low
+i8,2011,North America,White,Electric,Manual,4.4,163594,109206,117,Low
+X5,2021,Middle East,Silver,Hybrid,Manual,2.5,65618,66942,1576,Low
+i8,2022,Europe,Blue,Petrol,Manual,2.6,56056,109679,7019,High
+i8,2022,Europe,Silver,Hybrid,Manual,1.7,96584,102711,5055,Low
+7 Series,2021,Africa,White,Diesel,Manual,5,27375,39724,8860,High
+M3,2013,Europe,Red,Electric,Automatic,2.4,186761,59297,4839,Low
+X1,2024,Europe,Silver,Diesel,Automatic,2,41998,53666,9331,High
+X3,2020,Asia,Blue,Electric,Manual,4.6,23759,30583,6468,Low
+X5,2015,South America,Black,Hybrid,Automatic,1.9,179273,65019,4034,Low
+X1,2014,Europe,White,Petrol,Automatic,3.3,182247,99330,2794,Low
+M5,2012,North America,White,Hybrid,Automatic,1.9,31419,56471,6703,Low
+3 Series,2011,Europe,Red,Electric,Manual,2.8,51744,115390,475,Low
+X3,2014,Middle East,Silver,Electric,Manual,2.2,159206,35594,3695,Low
+7 Series,2019,South America,Black,Hybrid,Automatic,4.8,111958,44437,3216,Low
+M5,2012,Asia,Grey,Electric,Manual,4,76975,110803,2992,Low
+i3,2017,Middle East,White,Petrol,Manual,3.7,106381,66858,5716,Low
+X6,2019,North America,Blue,Diesel,Manual,4.1,63774,55571,3453,Low
+X3,2021,Middle East,Red,Petrol,Automatic,4.2,112729,66874,910,Low
+X5,2024,Africa,Red,Hybrid,Manual,4.1,197006,44388,7926,High
+X6,2019,Africa,White,Petrol,Manual,4.6,130763,35080,4885,Low
+X6,2016,Europe,Grey,Petrol,Manual,1.6,116548,99853,8281,High
+3 Series,2017,North America,Black,Electric,Automatic,4.6,85815,58210,4373,Low
+M3,2014,Europe,Red,Hybrid,Automatic,4.8,174691,79030,6326,Low
+3 Series,2024,North America,Silver,Diesel,Manual,2.1,148290,100082,4290,Low
+7 Series,2013,South America,Black,Hybrid,Manual,4.7,159983,111983,562,Low
+X5,2015,South America,Silver,Petrol,Manual,1.6,162854,54632,6471,Low
+M5,2020,Africa,Grey,Petrol,Automatic,2,195911,64700,3134,Low
+X3,2012,Asia,Grey,Diesel,Automatic,2.3,158244,111261,284,Low
+5 Series,2014,Europe,Black,Petrol,Manual,2.7,107737,32089,1404,Low
+X6,2019,Asia,Red,Diesel,Manual,1.5,49943,76065,3110,Low
+X5,2019,Africa,White,Hybrid,Automatic,3.3,93274,35026,4040,Low
+M5,2017,South America,White,Petrol,Manual,3.4,190609,94286,3140,Low
+M3,2011,Middle East,Red,Hybrid,Manual,2.4,125417,110368,263,Low
+X1,2015,Africa,Grey,Electric,Automatic,4.1,55847,90563,7766,High
+X5,2014,Africa,White,Petrol,Manual,4.3,99647,96159,8544,High
+i3,2021,South America,Grey,Diesel,Manual,2.1,121827,66573,1378,Low
+X3,2012,Middle East,White,Petrol,Manual,3.2,170374,81704,9321,High
+X3,2010,Africa,Black,Diesel,Automatic,2.9,129561,99206,3485,Low
+M5,2024,South America,Blue,Petrol,Automatic,4.1,111270,115032,4442,Low
+X6,2015,Asia,Grey,Electric,Automatic,3.5,157783,33943,895,Low
+M3,2014,Europe,Grey,Diesel,Manual,4.7,150277,81958,2478,Low
+3 Series,2013,Asia,Black,Hybrid,Manual,4.4,46238,45302,1490,Low
+5 Series,2017,Middle East,White,Diesel,Manual,2.1,181631,106607,8373,High
+7 Series,2020,Europe,Red,Hybrid,Automatic,4.8,156602,84989,5263,Low
+X6,2013,Middle East,White,Petrol,Automatic,3,68562,80978,9152,High
+M3,2023,Asia,Black,Electric,Manual,1.6,53042,59651,9583,High
+X3,2011,Europe,Red,Electric,Automatic,1.6,75993,73780,3355,Low
+i3,2023,Middle East,Silver,Petrol,Manual,2.4,161885,72017,6923,Low
+X1,2020,South America,Black,Petrol,Manual,3.9,43562,57009,2126,Low
+i8,2013,Africa,Black,Petrol,Manual,3.8,10711,101093,4474,Low
+M5,2013,South America,Silver,Electric,Manual,2.8,178197,79933,5472,Low
+M5,2024,Europe,White,Electric,Automatic,1.9,195147,87823,2045,Low
+X1,2015,Asia,Silver,Diesel,Manual,4.6,165179,108251,1684,Low
+X3,2019,North America,Blue,Hybrid,Automatic,3.4,70816,118113,9019,High
+i3,2019,South America,White,Petrol,Automatic,2.5,71922,60236,6927,Low
+i8,2020,South America,Silver,Electric,Automatic,4.7,80771,90448,2708,Low
+M5,2021,Europe,White,Electric,Automatic,4,45710,54902,867,Low
+i8,2011,Africa,Red,Electric,Automatic,2.2,113121,67588,7337,High
+i3,2022,Europe,Grey,Electric,Manual,3.8,108816,105560,5261,Low
+5 Series,2023,Africa,White,Electric,Automatic,4.5,195497,49146,9695,High
+X6,2019,Middle East,White,Petrol,Manual,2.1,103521,94193,1391,Low
+i8,2018,North America,Silver,Petrol,Automatic,1.6,177294,103376,3457,Low
+i8,2022,Europe,Grey,Diesel,Manual,3.5,117681,54967,6168,Low
+M3,2015,North America,Blue,Electric,Automatic,2.6,63159,74381,3111,Low
+X5,2024,South America,Blue,Diesel,Automatic,3.4,149399,61108,2675,Low
+X1,2013,Europe,Black,Petrol,Manual,4.4,16554,90889,6407,Low
+i3,2011,Asia,Grey,Diesel,Automatic,2.8,62926,117621,2824,Low
+X3,2012,North America,Grey,Electric,Manual,2.8,53030,105535,5455,Low
+M5,2010,South America,Black,Electric,Manual,3.5,31957,33585,1012,Low
+5 Series,2014,South America,White,Electric,Automatic,2.5,68586,62661,3679,Low
+X3,2022,North America,Grey,Hybrid,Manual,4.3,170490,40865,2375,Low
+i8,2011,North America,Blue,Petrol,Automatic,3.7,29441,101579,4824,Low
+7 Series,2016,Middle East,Grey,Electric,Automatic,1.9,114188,78243,8610,High
+X1,2019,Asia,Black,Diesel,Automatic,1.5,196994,47524,7709,High
+X5,2020,Middle East,Grey,Diesel,Automatic,2.4,63704,113278,308,Low
+M5,2015,Africa,White,Electric,Manual,3.1,31066,45788,8415,High
+i8,2016,North America,Blue,Electric,Manual,3.1,171657,95400,954,Low
+7 Series,2010,Middle East,Black,Hybrid,Manual,3.8,197666,55985,1216,Low
+i8,2016,Africa,Grey,Electric,Manual,4.8,47861,43963,5314,Low
+M5,2014,Asia,Silver,Electric,Manual,3.9,130993,67806,685,Low
+5 Series,2022,Africa,Grey,Diesel,Automatic,1.5,77240,103468,1438,Low
+X1,2019,Middle East,Red,Electric,Automatic,1.7,96264,61407,4822,Low
+M3,2020,Asia,Silver,Petrol,Manual,2.4,131569,42354,5867,Low
+X5,2011,Asia,Grey,Electric,Automatic,4.5,135403,34218,2586,Low
+3 Series,2024,South America,Blue,Petrol,Automatic,3,160788,69081,8877,High
+i3,2011,Africa,Grey,Petrol,Manual,2.7,120059,46948,6489,Low
+i3,2014,Asia,Silver,Electric,Automatic,4.7,133949,102113,2388,Low
+M5,2024,Europe,White,Hybrid,Automatic,4.6,24607,61107,2254,Low
+7 Series,2023,Asia,Blue,Electric,Automatic,1.7,100996,91382,2012,Low
+i8,2018,South America,White,Hybrid,Automatic,4.3,462,52693,7247,High
+M3,2015,Europe,Silver,Petrol,Automatic,2.8,26324,69077,6835,Low
+X6,2014,South America,Grey,Petrol,Automatic,2.7,117455,115437,8739,High
+5 Series,2011,Africa,Grey,Electric,Manual,3.3,118754,80170,2889,Low
+i3,2015,Asia,Silver,Hybrid,Automatic,2.9,152741,66975,3846,Low
+X5,2018,Africa,White,Hybrid,Manual,2,121736,89252,9319,High
+X1,2014,Asia,White,Diesel,Manual,4.5,14003,56072,3871,Low
+5 Series,2019,Europe,Blue,Petrol,Automatic,4.4,105893,114698,4844,Low
+X3,2023,Middle East,Red,Hybrid,Manual,3.5,175388,88026,3977,Low
+X3,2015,Asia,Silver,Petrol,Manual,3.9,91767,43437,8516,High
+X5,2018,North America,Blue,Diesel,Manual,4.3,153470,67509,187,Low
+X3,2023,South America,White,Hybrid,Manual,4.8,21686,88850,4297,Low
+i8,2011,North America,Grey,Diesel,Manual,5,199463,79415,2679,Low
+3 Series,2011,Europe,White,Diesel,Automatic,2.7,41940,67600,7373,High
+X3,2010,North America,Grey,Petrol,Automatic,4.6,127283,64363,422,Low
+7 Series,2013,South America,Blue,Petrol,Manual,1.8,102577,35662,878,Low
+7 Series,2018,Africa,Black,Electric,Automatic,2,5754,32320,9072,High
+5 Series,2012,South America,Red,Diesel,Manual,3.9,142890,111103,5032,Low
+M5,2019,Asia,Blue,Diesel,Automatic,5,171265,62531,2704,Low
+X5,2014,North America,Grey,Petrol,Automatic,3.8,170342,83753,2697,Low
+7 Series,2019,Europe,Black,Hybrid,Automatic,4.9,184135,60516,1319,Low
+X6,2013,Africa,Black,Diesel,Automatic,3.9,153804,115317,5523,Low
+X5,2014,Africa,White,Electric,Automatic,4,131183,44451,9902,High
+X1,2024,North America,Black,Petrol,Manual,2,127896,36378,587,Low
+i3,2015,Africa,Grey,Petrol,Manual,3.2,4936,48866,4978,Low
+i3,2023,Africa,Blue,Diesel,Manual,3.2,37916,113979,125,Low
+X3,2015,Europe,Silver,Diesel,Manual,3.3,11615,94644,6411,Low
+X3,2021,Asia,Silver,Hybrid,Automatic,3.8,57759,119692,6782,Low
+M5,2017,Africa,Red,Electric,Manual,4.5,135377,101934,5126,Low
+7 Series,2024,Asia,Red,Petrol,Automatic,4.9,102029,84994,1134,Low
+i8,2014,Asia,Silver,Petrol,Manual,2.6,155902,87450,5308,Low
+M3,2013,Asia,Grey,Electric,Automatic,3.3,24427,57553,3059,Low
+i8,2016,North America,Blue,Hybrid,Manual,2.5,145112,82447,1206,Low
+i8,2020,Europe,Black,Petrol,Manual,4.6,153712,79472,5473,Low
+i3,2021,Europe,Black,Hybrid,Manual,4.3,150006,115583,7961,High
+X6,2020,Middle East,Blue,Electric,Manual,4.4,180602,87937,2034,Low
+7 Series,2011,Middle East,Silver,Electric,Automatic,2.4,61989,86296,7283,High
+i8,2010,Africa,White,Electric,Automatic,4.5,22327,62841,5949,Low
+X3,2017,Asia,Grey,Electric,Automatic,3.1,72650,112515,6904,Low
+M3,2017,Middle East,Silver,Petrol,Automatic,3.7,14833,88471,9389,High
+3 Series,2011,Middle East,Red,Hybrid,Manual,3.9,168621,89312,6500,Low
+i8,2014,Africa,Silver,Petrol,Manual,4.3,54473,63653,7629,High
+3 Series,2020,Europe,Blue,Petrol,Manual,4.9,26035,89041,1076,Low
+X1,2015,North America,Silver,Petrol,Automatic,4.8,9398,64917,9708,High
+5 Series,2023,North America,Red,Petrol,Manual,3,27192,57537,6783,Low
+X3,2015,Africa,White,Hybrid,Manual,2,48856,69657,8063,High
+M5,2019,Europe,Red,Petrol,Manual,4.4,83013,62566,9518,High
+7 Series,2021,Middle East,Black,Hybrid,Manual,2.4,40931,66944,8090,High
+X1,2010,Europe,Black,Diesel,Manual,2.9,97249,47416,1006,Low
+i8,2019,Africa,Silver,Petrol,Manual,3.5,90580,61735,1198,Low
+i8,2020,North America,Red,Petrol,Manual,4.5,184098,89570,184,Low
+7 Series,2017,Middle East,Blue,Hybrid,Automatic,2.6,151732,44098,575,Low
+X6,2010,Africa,Grey,Diesel,Manual,4,160471,47052,1469,Low
+3 Series,2018,Asia,Black,Petrol,Automatic,1.8,161995,92850,8930,High
+X6,2020,South America,Red,Hybrid,Manual,2.4,53001,30503,8215,High
+3 Series,2013,Europe,Red,Petrol,Automatic,3.7,199461,40814,576,Low
+i3,2020,Asia,Silver,Electric,Automatic,2.9,2819,67331,5567,Low
+7 Series,2019,Africa,Black,Petrol,Automatic,3.3,103004,68170,5602,Low
+5 Series,2017,Africa,Grey,Hybrid,Manual,4.6,184810,49068,9103,High
+X1,2010,Asia,Silver,Hybrid,Manual,4.9,107950,51656,8773,High
+7 Series,2011,Asia,Red,Petrol,Manual,2.3,166677,57486,7500,High
+X1,2019,Middle East,White,Hybrid,Automatic,3.5,149655,44057,6087,Low
+M3,2017,South America,White,Diesel,Manual,2.6,149423,98493,3610,Low
+X6,2014,Asia,Grey,Petrol,Manual,3.7,145823,55592,3220,Low
+X1,2021,Africa,Red,Hybrid,Automatic,4.2,185362,102091,1625,Low
+M5,2019,South America,Grey,Electric,Manual,2.4,50561,44012,1830,Low
+X5,2024,Africa,Black,Diesel,Automatic,3.1,49390,46189,2424,Low
+7 Series,2014,Europe,Red,Diesel,Manual,4.2,49749,70720,5812,Low
+7 Series,2023,Africa,Silver,Hybrid,Manual,3.8,165399,87645,2100,Low
+X5,2012,South America,Blue,Petrol,Automatic,4.8,199519,38206,2457,Low
+7 Series,2021,Asia,Black,Diesel,Automatic,3.3,163859,59582,130,Low
+X3,2011,Africa,Silver,Hybrid,Automatic,3.1,131650,32066,1762,Low
+X5,2019,Asia,Grey,Diesel,Automatic,2.6,23051,100292,8781,High
+i3,2015,Middle East,Black,Petrol,Manual,4.2,47992,68834,4197,Low
+M5,2024,Africa,Blue,Diesel,Automatic,2.4,187280,46848,202,Low
+M3,2019,Middle East,Blue,Diesel,Automatic,4,39735,64499,6503,Low
+X1,2024,Asia,Silver,Diesel,Manual,1.9,154449,82025,2759,Low
+3 Series,2018,Middle East,White,Diesel,Automatic,4.5,154329,73392,7889,High
+5 Series,2019,Africa,Black,Petrol,Manual,1.7,138103,54031,2647,Low
+M3,2013,South America,White,Diesel,Automatic,4.1,197323,39723,9753,High
+M3,2015,Asia,Red,Hybrid,Automatic,2.3,136776,40127,1732,Low
+M5,2019,North America,Red,Petrol,Automatic,4.6,156894,63858,9012,High
+i3,2020,North America,Black,Diesel,Manual,4.7,78607,119793,2340,Low
+X6,2010,Europe,Red,Electric,Manual,3.8,73057,112899,4909,Low
+X6,2024,Asia,Blue,Petrol,Manual,4,14102,47737,4322,Low
+5 Series,2019,Europe,White,Petrol,Automatic,1.6,17367,60184,4604,Low
+3 Series,2012,South America,Black,Electric,Manual,4.9,151173,46910,8814,High
+M5,2014,South America,Silver,Hybrid,Manual,1.7,36321,50836,714,Low
+3 Series,2011,Africa,Red,Diesel,Manual,4,25395,60015,747,Low
+M5,2014,Asia,Grey,Petrol,Manual,3.1,119894,103439,1717,Low
+5 Series,2022,Middle East,Grey,Diesel,Manual,4.3,106769,111581,6280,Low
+M5,2019,Middle East,Silver,Diesel,Automatic,2,51844,103305,5975,Low
+5 Series,2016,Asia,Black,Petrol,Manual,4.4,114046,73665,1137,Low
+X6,2013,Europe,Silver,Petrol,Automatic,4.7,140190,104943,8283,High
+X6,2011,Asia,Black,Electric,Manual,4.2,136502,96487,3422,Low
+M5,2011,Middle East,Black,Hybrid,Automatic,2,119283,109369,4464,Low
+i3,2013,Europe,Black,Petrol,Automatic,2,148342,111455,144,Low
+i8,2011,North America,Black,Diesel,Manual,2.4,58751,68282,9453,High
+i8,2012,Middle East,White,Electric,Automatic,2.5,4558,107339,4954,Low
+3 Series,2016,North America,Silver,Electric,Automatic,3.2,133761,103396,5158,Low
+5 Series,2012,Europe,Red,Petrol,Manual,2.9,93868,39005,6163,Low
+X1,2022,Middle East,Blue,Hybrid,Manual,3.3,159238,31150,504,Low
+M5,2015,Africa,Grey,Hybrid,Automatic,3.2,140177,45952,5310,Low
+M3,2012,Africa,Red,Petrol,Automatic,4.1,65573,69458,5007,Low
+i8,2015,Asia,Blue,Electric,Manual,2.4,82618,36408,710,Low
+X3,2012,Middle East,Black,Diesel,Manual,2.3,22399,36464,1660,Low
+X1,2019,Middle East,Blue,Petrol,Manual,2.8,10110,93572,3871,Low
+3 Series,2024,Asia,Black,Hybrid,Manual,3.8,175239,88758,4240,Low
+7 Series,2021,South America,Red,Electric,Automatic,1.6,119156,116480,5351,Low
+3 Series,2021,Middle East,Black,Petrol,Manual,3.3,121974,85994,9206,High
+X6,2018,North America,Silver,Diesel,Automatic,3.7,169012,91231,1706,Low
+i8,2011,North America,Grey,Petrol,Automatic,4.7,26599,105233,6089,Low
+X1,2012,Middle East,Silver,Hybrid,Manual,2.8,44002,90374,1974,Low
+i3,2014,Europe,Black,Hybrid,Automatic,3.9,112987,102492,9161,High
+X6,2014,Middle East,Blue,Petrol,Manual,4.4,80986,51228,2990,Low
+M3,2023,South America,Silver,Hybrid,Manual,4,52339,32659,9573,High
+7 Series,2021,Europe,Grey,Diesel,Automatic,3.6,17010,90805,5142,Low
+i8,2015,Europe,Blue,Hybrid,Manual,1.7,127960,75703,1291,Low
+X6,2021,South America,Black,Hybrid,Automatic,4.7,184502,61055,8406,High
+M3,2011,North America,Silver,Diesel,Manual,5,134106,48589,7595,High
+3 Series,2024,Africa,Black,Diesel,Automatic,4.7,28609,76152,8259,High
+3 Series,2015,Middle East,Blue,Electric,Manual,3.2,104151,39751,7064,High
+5 Series,2022,South America,White,Petrol,Manual,3.8,185043,94673,1500,Low
+M3,2011,Middle East,Black,Diesel,Automatic,1.8,145917,118993,3665,Low
+M3,2016,Europe,Blue,Hybrid,Automatic,4.4,64277,116021,1162,Low
+X1,2022,Asia,Grey,Hybrid,Automatic,4.4,167065,32250,6370,Low
+X1,2012,Europe,Blue,Electric,Manual,3.2,25014,104471,3697,Low
+7 Series,2010,Europe,Blue,Petrol,Automatic,1.6,134962,112274,2973,Low
+M3,2023,Middle East,Silver,Diesel,Automatic,3.1,52160,64155,1548,Low
+X3,2019,Asia,White,Petrol,Automatic,2.1,94400,118446,4861,Low
+X6,2023,South America,Blue,Diesel,Automatic,1.8,50289,76529,4088,Low
+M3,2014,Asia,Blue,Electric,Manual,4.3,21689,96955,3157,Low
+X5,2023,South America,Grey,Petrol,Manual,2.6,25980,104120,3123,Low
+3 Series,2014,Africa,Grey,Hybrid,Automatic,4,161102,32433,6177,Low
+X5,2010,Europe,Black,Petrol,Automatic,1.8,11433,65352,7322,High
+5 Series,2011,Europe,White,Diesel,Automatic,1.7,38671,38569,9074,High
+i3,2018,Europe,Silver,Hybrid,Automatic,1.8,90458,105424,9512,High
+X3,2015,South America,White,Electric,Automatic,2,36517,60928,3360,Low
+X1,2018,North America,Black,Petrol,Automatic,2.6,193091,119264,5202,Low
+M5,2012,Asia,White,Electric,Automatic,2.9,151933,117800,9466,High
+5 Series,2024,Europe,Blue,Diesel,Automatic,1.7,198540,110489,6142,Low
+X3,2012,Europe,Silver,Hybrid,Manual,3,20041,44281,4338,Low
+X3,2011,Africa,Black,Petrol,Manual,3.8,103432,119695,9157,High
+i8,2023,Europe,Red,Electric,Automatic,1.7,175254,100319,3583,Low
+M3,2020,Middle East,White,Hybrid,Automatic,2.2,17320,42655,3380,Low
+X1,2022,Africa,White,Electric,Manual,3.6,198370,113800,1848,Low
+X5,2024,North America,Silver,Hybrid,Automatic,3.9,187157,114090,1681,Low
+5 Series,2010,Middle East,Blue,Petrol,Manual,3.1,166688,63952,7397,High
+X3,2020,Asia,Blue,Electric,Manual,3.7,135817,84813,637,Low
+M5,2022,Europe,White,Petrol,Manual,4.4,39903,116467,8417,High
+X3,2022,Europe,Black,Diesel,Automatic,1.9,23364,109859,6457,Low
+M3,2020,Middle East,White,Diesel,Manual,4.7,48816,56622,5056,Low
+X6,2011,Europe,Grey,Hybrid,Automatic,3.1,123670,76790,8091,High
+7 Series,2019,Africa,Red,Electric,Manual,3,113379,43419,5879,Low
+M5,2023,Africa,Grey,Electric,Manual,2.8,131595,74473,243,Low
+X5,2024,South America,White,Hybrid,Manual,3.3,189496,56347,8386,High
+X5,2014,Europe,White,Diesel,Automatic,4.9,182855,108305,7485,High
+X1,2020,South America,White,Petrol,Automatic,3,128169,84732,3173,Low
+i8,2022,South America,Black,Electric,Automatic,4.2,187164,52657,700,Low
+7 Series,2011,Middle East,Black,Diesel,Manual,3.4,77350,35933,6186,Low
+i3,2016,South America,Red,Hybrid,Automatic,3,166022,40610,504,Low
+i3,2012,South America,White,Electric,Manual,4.4,96881,68858,5970,Low
+5 Series,2010,South America,Grey,Diesel,Manual,3.3,59533,69652,4570,Low
+X1,2012,Asia,Silver,Diesel,Manual,4.2,164806,91084,7431,High
+7 Series,2014,Asia,Blue,Electric,Automatic,1.6,76310,97222,4203,Low
+X5,2014,North America,Grey,Diesel,Automatic,2,48028,99312,5928,Low
+X6,2013,Europe,White,Hybrid,Manual,4.6,105780,81557,9120,High
+7 Series,2020,North America,Grey,Petrol,Automatic,2.3,37748,111523,7286,High
+7 Series,2022,Africa,White,Electric,Automatic,3.4,136975,80700,2150,Low
+i8,2020,Europe,Blue,Electric,Automatic,5,118959,76599,3852,Low
+i8,2016,Asia,Silver,Electric,Manual,3.1,75642,68343,9271,High
+3 Series,2016,Africa,White,Electric,Automatic,3.2,601,58207,7516,High
+i8,2011,South America,Grey,Hybrid,Automatic,3.4,18398,62870,9953,High
+M3,2021,Europe,Grey,Diesel,Manual,2.7,127611,70395,4735,Low
+X3,2023,North America,Grey,Petrol,Manual,1.9,174668,119926,9465,High
+M5,2022,Asia,Silver,Diesel,Manual,2.5,153359,88143,6363,Low
+X3,2010,Europe,Red,Hybrid,Automatic,3.6,101047,60535,3518,Low
+i3,2020,South America,Grey,Petrol,Automatic,3,59710,93129,5779,Low
+3 Series,2021,Middle East,Grey,Electric,Automatic,3.4,83201,87400,6364,Low
+X1,2016,North America,White,Petrol,Manual,2.7,66310,58431,5703,Low
+X1,2016,Middle East,White,Electric,Manual,2.1,122129,72227,1539,Low
+M3,2016,North America,White,Diesel,Automatic,1.6,36176,75519,9128,High
+X1,2014,Asia,Grey,Diesel,Manual,2.3,183477,100001,4161,Low
+5 Series,2015,North America,Silver,Diesel,Automatic,3,199579,77953,7391,High
+7 Series,2014,North America,Grey,Hybrid,Manual,3.6,145338,94841,1289,Low
+X3,2020,North America,White,Diesel,Automatic,3.2,25936,70761,2693,Low
+7 Series,2011,South America,Grey,Hybrid,Automatic,3.4,180681,101217,3855,Low
+X5,2010,Europe,White,Electric,Manual,2.3,188191,102983,2096,Low
+i8,2013,Africa,Black,Diesel,Automatic,4.4,64798,65577,7587,High
+M5,2017,Europe,Red,Petrol,Automatic,2.9,101527,84598,8843,High
+X1,2021,Asia,Black,Electric,Manual,1.8,147520,41637,6615,Low
+M3,2022,Europe,Silver,Diesel,Automatic,4.2,178552,92155,303,Low
+X3,2017,Europe,Grey,Electric,Automatic,4.7,151069,109534,287,Low
+3 Series,2015,North America,Silver,Electric,Manual,2.8,8336,61522,3039,Low
+M3,2016,Europe,Black,Electric,Automatic,1.7,187794,93733,4938,Low
+3 Series,2015,South America,Grey,Petrol,Automatic,1.7,43929,101349,6609,Low
+X5,2011,Middle East,Blue,Diesel,Manual,2.9,91495,51775,3321,Low
+3 Series,2017,South America,Red,Diesel,Manual,2.4,34563,39079,5112,Low
+3 Series,2014,Asia,Grey,Diesel,Automatic,3.1,56256,105514,8814,High
+3 Series,2018,North America,White,Hybrid,Manual,3.7,31203,87365,7466,High
+X6,2019,Asia,Red,Diesel,Automatic,3.3,158856,69210,8934,High
+X1,2012,Middle East,Blue,Hybrid,Manual,3.6,131592,106316,5234,Low
+3 Series,2013,North America,Red,Electric,Automatic,4.5,178224,61624,2378,Low
+X3,2022,South America,White,Petrol,Manual,2.1,191523,102800,4703,Low
+i8,2020,North America,Silver,Hybrid,Automatic,3.8,42204,93715,1050,Low
+M3,2024,Asia,Black,Electric,Manual,3.2,85971,95328,2253,Low
+X1,2016,Middle East,Grey,Petrol,Automatic,3.2,26561,119042,6862,Low
+i8,2012,North America,Grey,Electric,Automatic,4.3,38415,89821,5183,Low
+7 Series,2013,Europe,Silver,Diesel,Manual,3.3,17597,101119,3418,Low
+M3,2017,North America,White,Hybrid,Automatic,4.3,186459,93894,5977,Low
+X1,2013,Asia,Black,Electric,Automatic,4.2,145745,64705,759,Low
+3 Series,2024,Africa,Black,Hybrid,Manual,1.7,175447,81565,8031,High
+5 Series,2014,North America,Blue,Petrol,Automatic,3.6,59811,100432,4815,Low
+i8,2016,Africa,Grey,Electric,Manual,2.8,14462,68822,6772,Low
+i8,2012,Africa,Black,Diesel,Automatic,3.4,133741,79695,9384,High
+i3,2018,Africa,White,Diesel,Automatic,3.6,25161,107434,2734,Low
+3 Series,2012,Europe,Grey,Hybrid,Manual,4.9,91941,35974,8783,High
+7 Series,2011,North America,Red,Electric,Manual,2.2,70398,73661,7670,High
+X1,2011,North America,Red,Petrol,Manual,3,35495,52637,5410,Low
+X3,2019,Middle East,Black,Diesel,Automatic,1.5,143611,58604,1882,Low
+3 Series,2013,Europe,Black,Electric,Automatic,1.9,62030,32480,2612,Low
+X3,2024,South America,Grey,Hybrid,Automatic,1.6,23531,36685,4372,Low
+3 Series,2019,Europe,White,Petrol,Automatic,3.8,3482,110193,2662,Low
+M3,2023,Middle East,Grey,Diesel,Manual,3.4,90019,37826,6332,Low
+7 Series,2017,Middle East,Grey,Diesel,Automatic,3.9,120771,88591,6467,Low
+5 Series,2010,Middle East,Red,Petrol,Automatic,3.6,194507,109610,215,Low
+i3,2015,Asia,Red,Petrol,Automatic,4.2,108684,71546,8102,High
+X6,2010,South America,Grey,Petrol,Automatic,2.8,107639,65231,731,Low
+X3,2019,South America,Blue,Petrol,Manual,1.7,56179,80968,7824,High
+5 Series,2018,North America,White,Electric,Automatic,4.1,126504,105351,8434,High
+7 Series,2021,Europe,Blue,Diesel,Manual,1.8,20591,47786,1280,Low
+X3,2023,Middle East,Blue,Diesel,Manual,3.6,146010,42922,7274,High
+X3,2019,Africa,Grey,Electric,Automatic,4.5,177919,83230,8373,High
+3 Series,2014,Africa,Red,Petrol,Manual,3.3,122390,112787,979,Low
+3 Series,2015,Europe,Silver,Electric,Automatic,3.7,182212,110749,9613,High
+7 Series,2022,South America,Red,Diesel,Automatic,1.7,10844,50076,1724,Low
+3 Series,2019,Africa,Black,Electric,Manual,4.4,118787,117759,8601,High
+M3,2011,South America,Black,Diesel,Manual,4,74673,60403,458,Low
+M5,2011,Africa,Red,Petrol,Automatic,2.5,41594,93495,489,Low
+X1,2022,Asia,Blue,Diesel,Automatic,3.6,158815,55945,1992,Low
+7 Series,2014,Europe,Silver,Diesel,Manual,2.2,180331,66597,8427,High
+X1,2014,South America,Silver,Diesel,Automatic,1.8,121775,36995,8961,High
+7 Series,2015,Europe,White,Electric,Automatic,1.9,124716,45389,7114,High
+i8,2017,Middle East,White,Petrol,Manual,3.7,46743,54456,9656,High
+X1,2016,North America,Black,Hybrid,Automatic,1.8,136041,58128,9393,High
+i3,2020,Africa,Grey,Diesel,Manual,2.8,162896,44877,5707,Low
+X1,2018,North America,Blue,Electric,Automatic,5,135399,69532,4029,Low
+X1,2011,Middle East,White,Petrol,Manual,1.8,93908,99526,5594,Low
+M3,2015,Asia,White,Diesel,Manual,4.3,143486,47202,6790,Low
+X1,2022,Europe,Grey,Hybrid,Manual,3.7,52329,73782,9509,High
+X6,2024,South America,Silver,Diesel,Manual,2.7,46259,75784,3583,Low
+7 Series,2023,North America,Red,Petrol,Automatic,1.7,128802,77666,9606,High
+X5,2023,Asia,Silver,Diesel,Manual,3.3,105116,36598,4056,Low
+X6,2012,Europe,Red,Diesel,Automatic,3.9,103749,109219,1073,Low
+i3,2019,Asia,Red,Diesel,Manual,3,50966,62468,5853,Low
+i8,2014,Asia,Red,Electric,Manual,1.9,193195,59017,3357,Low
+i3,2011,North America,Blue,Petrol,Automatic,1.5,92697,119869,202,Low
+3 Series,2013,Africa,Blue,Hybrid,Manual,2.8,187514,94663,8767,High
+X6,2014,Europe,Red,Petrol,Automatic,2.7,29050,96142,8107,High
+X1,2012,Europe,Red,Hybrid,Manual,3.4,15115,82980,9785,High
+M5,2020,South America,Silver,Diesel,Manual,2.6,189992,93470,9172,High
+X1,2024,North America,Black,Petrol,Manual,3.7,27620,50708,560,Low
+X3,2015,Middle East,Blue,Petrol,Manual,1.5,27585,84087,623,Low
+X1,2021,Africa,Grey,Electric,Automatic,4.4,193877,63252,2663,Low
+M3,2023,Europe,Red,Diesel,Automatic,2.1,110253,40702,7958,High
+5 Series,2022,South America,Blue,Electric,Automatic,2.1,149327,54276,9988,High
+X3,2016,South America,Blue,Petrol,Manual,2.5,122774,73465,5890,Low
+7 Series,2013,Africa,Blue,Electric,Automatic,3.4,30422,69824,2197,Low
+i8,2012,Africa,Grey,Hybrid,Manual,3.4,176104,66186,6645,Low
+X1,2022,Asia,Blue,Hybrid,Automatic,1.7,65650,84458,7639,High
+X5,2022,Europe,Red,Hybrid,Automatic,4.4,144315,61588,3101,Low
+5 Series,2016,Europe,Black,Petrol,Manual,4.3,190332,116918,8620,High
+M3,2014,Asia,Black,Hybrid,Automatic,4.3,17422,62542,9060,High
+M5,2018,Europe,White,Petrol,Automatic,3.5,150213,70154,177,Low
+X1,2024,Africa,White,Diesel,Automatic,4,59291,83251,4933,Low
+M3,2019,Europe,Grey,Electric,Manual,2.5,145950,72440,8225,High
+X5,2020,South America,Grey,Diesel,Automatic,2.2,178156,63109,6611,Low
+5 Series,2017,North America,Silver,Electric,Manual,3.1,57843,111326,4880,Low
+i3,2016,North America,White,Petrol,Automatic,1.5,15835,101437,383,Low
+X6,2011,Asia,Red,Hybrid,Manual,2.2,96778,61915,3842,Low
+M5,2011,Middle East,Silver,Electric,Automatic,4.7,162831,57365,9528,High
+X5,2011,Africa,Grey,Electric,Manual,2,183979,108106,3289,Low
+X1,2013,Asia,Red,Electric,Manual,4.5,24886,51302,2953,Low
+X3,2014,Europe,Black,Diesel,Automatic,3.9,29909,59265,8296,High
+7 Series,2023,South America,Grey,Hybrid,Automatic,4.5,173701,63591,9984,High
+i3,2013,Middle East,Blue,Petrol,Manual,3,196560,67757,4086,Low
+7 Series,2014,Asia,Grey,Hybrid,Automatic,1.7,81582,94789,1199,Low
+X1,2024,Middle East,White,Electric,Manual,3.1,13994,77464,3450,Low
+3 Series,2010,Middle East,Blue,Petrol,Manual,3,112138,39323,1018,Low
+X3,2012,Asia,Grey,Electric,Automatic,4.3,20160,117370,8863,High
+X6,2011,Asia,Red,Hybrid,Manual,1.6,190183,68691,1191,Low
+5 Series,2012,North America,White,Hybrid,Manual,2.9,79253,110763,1232,Low
+i3,2017,North America,Blue,Hybrid,Automatic,1.9,36840,55384,8367,High
+X6,2016,Africa,Black,Hybrid,Manual,3.5,21127,81655,2565,Low
+M3,2014,Europe,Red,Diesel,Manual,4.3,57122,81004,9540,High
+3 Series,2021,Africa,Grey,Diesel,Automatic,2.6,185914,58606,521,Low
+i8,2022,South America,Silver,Electric,Manual,3.7,113408,71800,6290,Low
+M5,2024,Europe,Red,Hybrid,Manual,2.1,168000,105884,717,Low
+M5,2020,Africa,Silver,Hybrid,Manual,1.7,109279,111237,2395,Low
+i8,2017,Europe,Blue,Hybrid,Manual,3,135309,72831,8104,High
+i3,2012,Africa,White,Hybrid,Manual,4.5,192137,44919,6357,Low
+i3,2022,Europe,Red,Electric,Automatic,2.2,176381,74170,4970,Low
+X6,2013,Middle East,Silver,Hybrid,Automatic,2.2,179783,55448,7326,High
+M3,2021,Africa,Silver,Hybrid,Manual,3,104770,60868,4319,Low
+5 Series,2012,Middle East,White,Electric,Automatic,4.8,56769,54375,9384,High
+X5,2015,Middle East,Blue,Electric,Manual,2.5,58584,44131,6685,Low
+M5,2022,Asia,Red,Petrol,Automatic,3,152191,102913,8595,High
+i3,2013,South America,Red,Diesel,Manual,3,98736,85859,7144,High
+5 Series,2016,Asia,Grey,Petrol,Manual,4.5,70396,40284,6935,Low
+5 Series,2020,Africa,Black,Diesel,Manual,2.3,56565,87706,6813,Low
+i3,2010,Europe,Grey,Electric,Automatic,2,111989,30624,7715,High
+5 Series,2023,Europe,Blue,Diesel,Manual,4.9,9486,110486,5941,Low
+5 Series,2021,Middle East,Red,Diesel,Manual,3.5,185809,116544,7249,High
+i8,2023,South America,Black,Diesel,Automatic,4.7,134382,46111,5634,Low
+M3,2023,Africa,Blue,Petrol,Automatic,2.9,139436,33189,758,Low
+M5,2018,South America,Grey,Electric,Automatic,1.6,138621,73923,8439,High
+M3,2021,Europe,Black,Diesel,Manual,2,132224,65912,2357,Low
+5 Series,2024,Middle East,White,Diesel,Manual,2.6,2144,93591,1771,Low
+M5,2022,North America,Grey,Hybrid,Manual,4.7,166281,70981,6605,Low
+5 Series,2013,Asia,White,Hybrid,Automatic,1.9,122139,48107,8529,High
+7 Series,2023,North America,Blue,Hybrid,Manual,3.8,199179,103538,5808,Low
+X6,2024,North America,Black,Diesel,Manual,4.9,138134,97221,7539,High
+3 Series,2024,North America,Red,Electric,Automatic,2.7,178617,62060,6164,Low
+5 Series,2011,Africa,Red,Hybrid,Manual,4.3,186638,85862,9278,High
+X5,2012,Middle East,White,Diesel,Manual,4.2,106022,66864,9348,High
+X6,2014,North America,Silver,Hybrid,Automatic,4.3,97326,72169,3514,Low
+i8,2019,Africa,Blue,Hybrid,Manual,3.8,138195,42366,5125,Low
+7 Series,2014,Middle East,Silver,Diesel,Manual,1.7,159747,74638,6217,Low
+X6,2011,North America,Blue,Petrol,Manual,3.2,172529,115669,8958,High
+i8,2010,Europe,White,Diesel,Manual,2.8,189726,46523,5852,Low
+i8,2010,Africa,Black,Diesel,Automatic,3.9,198804,33223,6579,Low
+7 Series,2020,Africa,Black,Hybrid,Manual,3.7,48418,71887,1740,Low
+3 Series,2021,Europe,White,Electric,Manual,1.6,46574,34255,7556,High
+M5,2018,Europe,Silver,Electric,Automatic,3.3,122169,95387,7303,High
+3 Series,2015,Africa,Blue,Electric,Manual,4.7,56900,54421,2942,Low
+3 Series,2020,Middle East,White,Petrol,Manual,1.7,131455,60694,8325,High
+i3,2020,North America,Black,Electric,Automatic,4,137653,100390,8019,High
+X3,2019,Middle East,Grey,Diesel,Automatic,3.3,105622,95916,3453,Low
+X5,2023,Africa,Black,Diesel,Automatic,1.8,125631,75739,7794,High
+M5,2014,Middle East,Blue,Electric,Automatic,4.3,103406,87409,5204,Low
+3 Series,2021,Europe,Black,Hybrid,Manual,4.5,137373,99120,5412,Low
+M3,2017,North America,Black,Petrol,Manual,4,55228,57877,6990,Low
+3 Series,2012,Africa,Silver,Petrol,Automatic,2.4,141424,59287,244,Low
+5 Series,2016,South America,White,Hybrid,Manual,4.6,187588,100532,7284,High
+X6,2020,Europe,Silver,Electric,Automatic,2.1,67964,110730,2462,Low
+X6,2015,Europe,Blue,Diesel,Automatic,4.1,165875,48951,4480,Low
+5 Series,2011,North America,White,Electric,Manual,3.9,21532,89606,116,Low
+7 Series,2022,Middle East,Red,Petrol,Automatic,4.3,45060,33948,9618,High
+X6,2012,North America,Blue,Hybrid,Automatic,4.8,145401,116398,8192,High
+X3,2019,North America,Silver,Diesel,Automatic,2.6,142198,99764,7652,High
+X1,2019,Asia,Grey,Diesel,Automatic,4.7,103305,35111,2935,Low
+X1,2022,Asia,White,Diesel,Automatic,2.9,101461,32665,3319,Low
+3 Series,2022,Africa,Black,Diesel,Automatic,4.3,159171,48270,2656,Low
+i3,2020,Africa,Grey,Electric,Manual,3.7,85246,74753,4483,Low
+3 Series,2014,Middle East,Silver,Diesel,Manual,2.5,92864,34721,588,Low
+i3,2017,North America,Silver,Hybrid,Manual,4.6,113703,40076,3950,Low
+M3,2016,Africa,Red,Hybrid,Manual,3.3,69710,88043,2295,Low
+7 Series,2015,Africa,Black,Diesel,Automatic,3.3,104825,42184,9860,High
+M3,2020,Europe,White,Hybrid,Manual,4.2,130023,62258,6352,Low
+i8,2017,Africa,Grey,Electric,Manual,5,50896,96341,1869,Low
+X3,2023,Middle East,Blue,Hybrid,Automatic,4.7,82957,34152,1495,Low
+i3,2012,Middle East,Blue,Hybrid,Automatic,4.2,193937,68345,1384,Low
+5 Series,2014,Europe,Grey,Petrol,Automatic,2,56746,46954,4602,Low
+M5,2024,Europe,Blue,Hybrid,Manual,1.8,17017,94178,6776,Low
+X6,2021,Middle East,Black,Hybrid,Automatic,3.7,119323,114049,3291,Low
+5 Series,2023,Middle East,Grey,Hybrid,Manual,1.9,40736,37783,1563,Low
+3 Series,2016,Africa,Black,Electric,Automatic,3.3,133247,37741,2320,Low
+M3,2023,Asia,Grey,Diesel,Automatic,1.7,12401,105278,7203,High
+M5,2018,South America,Grey,Electric,Manual,3.4,167257,44498,4594,Low
+5 Series,2012,North America,Silver,Diesel,Automatic,3.3,110174,117456,2577,Low
+i8,2020,Africa,Red,Hybrid,Automatic,2.8,44352,65517,8924,High
+X6,2021,Europe,Silver,Electric,Manual,4.1,121086,90230,7556,High
+X3,2013,North America,Blue,Hybrid,Manual,4.6,186008,108388,356,Low
+3 Series,2024,Europe,Black,Hybrid,Automatic,1.5,175121,108512,4534,Low
+3 Series,2010,South America,White,Petrol,Automatic,4.2,41556,62104,7885,High
+M5,2016,North America,Blue,Petrol,Manual,1.7,12988,30716,3908,Low
+M3,2020,Africa,Blue,Diesel,Manual,2.6,135006,77329,7967,High
+5 Series,2015,North America,Black,Hybrid,Automatic,3.8,2544,68191,6220,Low
+5 Series,2014,Middle East,White,Electric,Manual,3.6,64607,52385,8225,High
+M3,2016,South America,Blue,Electric,Manual,2.1,180317,41263,9026,High
+X3,2023,Africa,Silver,Hybrid,Manual,4.6,61592,43091,9287,High
+X6,2021,South America,Red,Hybrid,Manual,4.1,91526,54606,6269,Low
+M5,2018,North America,Silver,Diesel,Automatic,4.4,120904,115280,8469,High
+7 Series,2011,North America,Grey,Diesel,Automatic,3.4,122439,71165,6572,Low
+M3,2016,Middle East,White,Hybrid,Manual,3.3,185076,110841,4615,Low
+i8,2024,Europe,Silver,Hybrid,Manual,2.4,63467,47396,6226,Low
+7 Series,2016,South America,White,Electric,Manual,1.6,29563,107014,1375,Low
+5 Series,2010,North America,Black,Hybrid,Manual,3.8,147428,110800,2749,Low
+3 Series,2019,North America,Red,Petrol,Manual,3.9,8679,67199,4933,Low
+X1,2021,Middle East,Silver,Electric,Automatic,2.8,128505,116752,6409,Low
+X1,2020,Africa,White,Electric,Manual,2.4,167352,58860,6286,Low
+7 Series,2022,Middle East,Blue,Electric,Automatic,1.9,39985,84668,9459,High
+X6,2011,Africa,White,Hybrid,Manual,4.9,102647,54677,4605,Low
+3 Series,2019,South America,Red,Diesel,Automatic,2.8,187953,84927,408,Low
+M3,2019,South America,Black,Petrol,Manual,1.9,3089,113828,5608,Low
+i8,2023,Africa,Red,Electric,Automatic,1.9,75050,58629,9143,High
+M3,2024,North America,Blue,Electric,Manual,2.2,147489,73742,9417,High
+5 Series,2019,Asia,Red,Petrol,Automatic,5,142971,115229,7618,High
+5 Series,2013,North America,White,Hybrid,Manual,3.4,193477,102021,2140,Low
+M5,2012,Middle East,Grey,Petrol,Manual,2.1,163312,40156,8286,High
+3 Series,2011,Middle East,Red,Diesel,Automatic,4,45888,119971,8128,High
+X1,2014,Asia,Red,Petrol,Manual,2.6,16696,47255,4320,Low
+X6,2015,Asia,White,Diesel,Manual,3.7,130621,96516,5071,Low
+5 Series,2015,Middle East,Grey,Diesel,Manual,1.6,74341,51848,8464,High
+X3,2012,North America,Red,Diesel,Manual,2.4,81864,30405,4432,Low
+i8,2013,Asia,White,Hybrid,Manual,3.9,2247,51103,3292,Low
+X1,2015,Middle East,Grey,Electric,Automatic,2.8,56821,59799,1327,Low
+M3,2015,Middle East,Grey,Diesel,Manual,3.6,109623,75163,6083,Low
+X6,2010,Africa,Silver,Electric,Manual,4.7,54988,78679,9996,High
+X5,2014,Middle East,Red,Diesel,Automatic,4.5,24765,43861,5866,Low
+3 Series,2016,Africa,White,Hybrid,Manual,4.6,174394,116537,8095,High
+X6,2023,Middle East,Blue,Diesel,Manual,1.7,29905,58246,2029,Low
+X5,2013,Africa,White,Electric,Automatic,1.6,194844,71419,4833,Low
+5 Series,2014,Asia,Red,Electric,Manual,3.5,8034,68437,1158,Low
+X1,2013,South America,Blue,Hybrid,Manual,3.4,6816,102725,5681,Low
+X6,2024,Europe,Blue,Electric,Automatic,5,144590,42383,7123,High
+7 Series,2020,North America,White,Electric,Automatic,3.9,135171,94897,5483,Low
+i8,2021,Africa,Grey,Electric,Manual,4.4,156201,58679,2479,Low
+i3,2020,Europe,White,Petrol,Automatic,3.3,113735,98335,1023,Low
+3 Series,2016,Middle East,Red,Petrol,Manual,2.7,168974,58521,228,Low
+i3,2015,South America,Silver,Electric,Automatic,2.2,25164,80117,5910,Low
+i3,2011,Europe,White,Electric,Automatic,3.1,86664,54299,3918,Low
+3 Series,2013,Middle East,White,Petrol,Manual,4.5,83942,33567,969,Low
+M3,2013,South America,Silver,Petrol,Manual,1.6,137803,104729,2908,Low
+i3,2024,South America,Blue,Hybrid,Manual,2.5,45509,115138,3119,Low
+X6,2018,North America,Grey,Hybrid,Manual,4.1,164666,109636,683,Low
+X3,2017,North America,Red,Electric,Automatic,3.1,88696,95779,9159,High
+i8,2019,Middle East,Red,Electric,Manual,4.4,20924,103520,4316,Low
+3 Series,2019,Europe,Grey,Hybrid,Automatic,4.5,43769,119315,6880,Low
+M3,2022,Africa,Silver,Hybrid,Automatic,3.2,181377,30265,5256,Low
+7 Series,2021,North America,Grey,Electric,Automatic,2.9,23032,50080,9375,High
+X1,2020,Middle East,Red,Electric,Automatic,3.5,80742,63818,4989,Low
+7 Series,2017,Africa,Silver,Petrol,Automatic,4.1,64833,56335,9846,High
+i3,2021,South America,Black,Hybrid,Manual,3.2,74396,45100,3605,Low
+5 Series,2017,South America,Grey,Hybrid,Automatic,2,170468,118705,6098,Low
+M3,2016,Asia,Grey,Hybrid,Automatic,3.8,147769,32392,6444,Low
+X1,2015,North America,Silver,Petrol,Manual,1.7,62763,44878,9417,High
+i8,2018,Middle East,White,Electric,Manual,4.1,64793,56513,3018,Low
+i8,2021,Middle East,Black,Hybrid,Automatic,4.1,140964,44044,8946,High
+i8,2010,North America,Black,Hybrid,Automatic,2.1,18474,31063,4719,Low
+M5,2015,Europe,White,Petrol,Manual,4.6,23623,101714,5733,Low
+X6,2016,Africa,Silver,Diesel,Manual,4.9,102009,41897,2357,Low
+i3,2012,Africa,Grey,Hybrid,Automatic,3.6,156704,85097,4227,Low
+X5,2024,Asia,Blue,Hybrid,Manual,3.6,172819,87894,312,Low
+X5,2023,Asia,Blue,Hybrid,Automatic,1.9,101050,32278,621,Low
+3 Series,2017,Middle East,Red,Diesel,Manual,4.6,152496,113502,5288,Low
+X3,2021,Middle East,Silver,Petrol,Automatic,2.1,164280,31241,9866,High
+M5,2014,Europe,Red,Electric,Automatic,3.5,109968,51926,6306,Low
+M3,2020,Asia,Grey,Petrol,Manual,3.1,90304,98236,6618,Low
+X1,2024,Africa,Blue,Diesel,Automatic,3.6,70472,110077,5470,Low
+M5,2016,North America,White,Hybrid,Manual,4.5,40014,56153,8065,High
+M3,2016,Middle East,Blue,Petrol,Automatic,4,148234,87641,2047,Low
+5 Series,2016,North America,Silver,Hybrid,Manual,4.9,198770,86402,8507,High
+M5,2016,Africa,Silver,Diesel,Automatic,3.8,79655,55422,3075,Low
+X5,2016,South America,White,Diesel,Automatic,3.8,153740,57097,7836,High
+X1,2024,Asia,Silver,Diesel,Manual,2.7,44487,67969,1996,Low
+7 Series,2019,Asia,Black,Electric,Manual,4.5,79533,85947,7560,High
+3 Series,2014,South America,Black,Petrol,Automatic,2.6,144798,86024,3418,Low
+i3,2024,South America,Red,Electric,Automatic,2.5,21933,95670,9516,High
+M3,2022,Europe,Red,Diesel,Manual,3.1,76895,117063,9241,High
+M3,2013,Africa,Red,Diesel,Automatic,2.5,46420,116586,4842,Low
+M5,2017,Africa,Grey,Petrol,Manual,2.5,193187,114490,9959,High
+5 Series,2022,Asia,Red,Electric,Manual,2.9,65113,53990,2402,Low
+X6,2015,Asia,Silver,Diesel,Manual,2.7,4297,55722,1323,Low
+7 Series,2024,South America,White,Diesel,Automatic,3.2,62049,108162,8061,High
+X6,2018,Africa,Grey,Hybrid,Manual,2,190850,80217,7198,High
+X6,2020,Middle East,Blue,Electric,Automatic,4.2,148391,32431,2432,Low
+M3,2014,Europe,Blue,Hybrid,Manual,2.2,71450,39429,7211,High
+X6,2021,Africa,Black,Petrol,Manual,3.6,49380,34307,2341,Low
+X3,2011,South America,Blue,Electric,Manual,2.6,7694,85726,4592,Low
+X3,2010,Europe,Silver,Hybrid,Manual,2.5,83677,59469,9425,High
+M3,2024,North America,Blue,Petrol,Automatic,3.7,80033,61305,1461,Low
+3 Series,2012,Africa,Blue,Petrol,Manual,2.5,29573,52706,2652,Low
+i8,2014,Africa,Silver,Electric,Automatic,3.1,133485,115558,2809,Low
+M5,2018,Europe,Silver,Diesel,Automatic,3.7,181260,108668,4273,Low
+i8,2012,Europe,Blue,Electric,Manual,3.8,77500,87220,8164,High
+3 Series,2012,Europe,Black,Hybrid,Automatic,1.6,13953,60976,5317,Low
+X1,2024,Africa,Grey,Diesel,Manual,1.6,71814,85225,1854,Low
+i3,2024,South America,White,Electric,Manual,2.1,139359,57227,5579,Low
+M5,2018,Asia,White,Hybrid,Automatic,3.5,197394,42934,5719,Low
+i3,2016,Europe,Black,Electric,Manual,3,1606,108232,4604,Low
+i8,2023,Africa,White,Electric,Automatic,2.4,748,39781,4454,Low
+M5,2024,South America,Red,Hybrid,Manual,2.9,141179,105827,9113,High
+i8,2014,Asia,Blue,Petrol,Manual,1.6,150196,62315,4916,Low
+X3,2012,Europe,Black,Diesel,Automatic,3,98137,103304,6915,Low
+M5,2023,Europe,Blue,Hybrid,Automatic,4.4,169028,71242,4603,Low
+X1,2015,Africa,Grey,Diesel,Manual,4.6,128089,71029,2483,Low
+i8,2015,Asia,Blue,Diesel,Manual,3.5,150446,60790,7179,High
+X5,2012,North America,White,Petrol,Automatic,3.3,50644,30672,8201,High
+X5,2011,Africa,Black,Petrol,Automatic,3.3,5823,113918,5072,Low
+X6,2022,Africa,Blue,Hybrid,Manual,2,72138,111570,8859,High
+7 Series,2021,Europe,Grey,Electric,Automatic,4.6,55526,99232,9470,High
+X1,2017,Europe,Grey,Electric,Automatic,3.4,7517,69187,2350,Low
+X5,2021,Middle East,White,Hybrid,Manual,4.9,107593,53795,2151,Low
+i8,2011,Africa,Grey,Diesel,Manual,4.1,833,101477,1225,Low
+3 Series,2023,Asia,Silver,Hybrid,Automatic,4.8,44501,40840,4609,Low
+7 Series,2018,South America,Silver,Diesel,Automatic,3.5,41128,90461,5455,Low
+M3,2021,Middle East,Blue,Electric,Manual,2.9,141322,58067,1495,Low
+3 Series,2015,Europe,Black,Hybrid,Automatic,2.2,168245,59838,363,Low
+M3,2021,Africa,Blue,Hybrid,Manual,4.7,96568,103841,2938,Low
+M5,2010,Middle East,Grey,Hybrid,Automatic,4.1,184794,70059,2906,Low
+M3,2021,North America,Grey,Diesel,Automatic,3.4,52758,66059,310,Low
+i8,2010,South America,Black,Hybrid,Automatic,4.7,16020,102215,5006,Low
+i3,2013,Asia,Blue,Diesel,Manual,2.7,52711,117713,817,Low
+M5,2017,Africa,White,Hybrid,Manual,2.2,70048,88277,1957,Low
+X5,2023,North America,Blue,Petrol,Automatic,4.1,29044,103882,3065,Low
+X3,2016,South America,Red,Diesel,Automatic,1.5,129965,69814,8200,High
+5 Series,2013,Middle East,Blue,Electric,Automatic,2.6,44670,98938,6219,Low
+X5,2020,Middle East,Grey,Electric,Manual,4.1,141763,116403,5236,Low
+X1,2020,Middle East,Silver,Electric,Automatic,4,175901,97944,5092,Low
+M3,2018,South America,Grey,Petrol,Manual,2.5,80707,97065,1406,Low
+X6,2011,South America,Black,Diesel,Automatic,2.4,176531,100697,3313,Low
+5 Series,2015,North America,Red,Electric,Automatic,2.9,184476,81499,7845,High
+X3,2018,Asia,White,Diesel,Automatic,4.8,82998,91802,6602,Low
+7 Series,2019,Middle East,Red,Electric,Automatic,3.6,138607,87290,7029,High
+7 Series,2014,Asia,Blue,Diesel,Manual,3.4,38433,48035,8688,High
+X5,2012,Asia,Red,Hybrid,Manual,4.9,103530,88831,3079,Low
+X6,2021,Africa,Grey,Petrol,Manual,2.5,164179,33142,6534,Low
+7 Series,2022,North America,Black,Diesel,Automatic,2.4,183164,75994,3045,Low
+7 Series,2016,Africa,Black,Diesel,Automatic,3.6,149794,111322,897,Low
+X6,2019,North America,Red,Petrol,Manual,2.4,181554,115314,7952,High
+X5,2019,North America,Blue,Diesel,Automatic,4.8,162711,65998,9254,High
+X6,2016,South America,Black,Electric,Manual,4.5,111465,47544,4905,Low
+5 Series,2018,Asia,Silver,Electric,Automatic,3.8,103055,119290,3018,Low
+X6,2011,Middle East,Blue,Petrol,Automatic,3.8,83663,79837,3643,Low
+i8,2010,Middle East,Black,Hybrid,Automatic,3.3,185811,76123,9854,High
+i3,2012,Africa,Grey,Electric,Automatic,4.4,134342,70967,1389,Low
+X5,2021,Middle East,Black,Petrol,Automatic,4.3,44279,96256,7627,High
+3 Series,2010,Europe,Grey,Petrol,Manual,2,6546,71897,6116,Low
+M5,2021,South America,Grey,Diesel,Manual,2.6,124911,72813,6144,Low
+5 Series,2022,North America,White,Hybrid,Manual,2.9,161171,59328,4939,Low
+i3,2022,Africa,Grey,Diesel,Manual,3.5,190856,97967,4376,Low
+M5,2021,Middle East,Grey,Diesel,Manual,3.9,155826,43613,7301,High
+X5,2011,Asia,White,Electric,Manual,1.7,19985,105672,1915,Low
+M3,2021,Middle East,Black,Electric,Manual,2.2,129743,33045,8274,High
+X6,2013,North America,Red,Hybrid,Automatic,4.4,56342,39910,1637,Low
+M3,2011,Asia,White,Diesel,Manual,3.6,12618,92449,9605,High
+7 Series,2011,South America,White,Diesel,Automatic,1.5,109461,116095,9317,High
+i8,2010,Europe,Grey,Petrol,Manual,4.8,35131,38410,7102,High
+3 Series,2019,Asia,Red,Hybrid,Automatic,4.3,58045,96028,7308,High
+X1,2022,Europe,Grey,Petrol,Automatic,3.1,14226,61097,9318,High
+X1,2019,Middle East,Silver,Electric,Automatic,2.3,83783,106021,5864,Low
+i3,2020,Asia,Black,Hybrid,Manual,4.3,34091,52274,2598,Low
+M3,2010,Asia,Black,Hybrid,Manual,3.4,1038,82135,4915,Low
+7 Series,2016,Asia,Grey,Hybrid,Manual,2.9,35342,79489,2717,Low
+X6,2024,Middle East,Silver,Hybrid,Manual,1.6,6428,81049,2520,Low
+3 Series,2018,Asia,Silver,Petrol,Automatic,2.6,105004,57570,4176,Low
+3 Series,2013,Europe,Grey,Diesel,Manual,2.1,66794,60006,3139,Low
+X5,2019,South America,Silver,Electric,Automatic,4.5,43943,39118,5858,Low
+X5,2018,Europe,Blue,Diesel,Automatic,1.8,163496,71489,7178,High
+X1,2022,Middle East,Grey,Diesel,Automatic,2.9,1290,39328,8419,High
+X6,2018,Asia,Blue,Petrol,Manual,2.2,173803,66213,2953,Low
+M3,2012,Africa,Silver,Petrol,Automatic,3.6,54088,45758,3937,Low
+X3,2017,Africa,Black,Petrol,Automatic,4.2,39542,50048,6674,Low
+M3,2019,South America,White,Hybrid,Manual,3.1,51758,115933,4924,Low
+i8,2019,Europe,Red,Electric,Automatic,2,133478,68760,6037,Low
+X6,2019,Africa,Silver,Petrol,Automatic,3.8,129541,107676,8107,High
+X3,2010,Europe,Red,Electric,Automatic,4,59339,107569,7467,High
+X6,2014,Middle East,Silver,Diesel,Manual,4.4,94613,48469,2501,Low
+X6,2016,Asia,Black,Hybrid,Automatic,3.9,57838,49540,5303,Low
+5 Series,2015,North America,Black,Hybrid,Manual,3.9,125698,77204,5517,Low
+7 Series,2023,Africa,Grey,Electric,Manual,1.5,142754,87603,2037,Low
+i8,2014,South America,Silver,Hybrid,Automatic,2.9,65967,112738,2511,Low
+X6,2021,Middle East,Blue,Hybrid,Automatic,4.8,21780,50950,6544,Low
+X3,2021,Europe,White,Hybrid,Automatic,3,840,86728,5126,Low
+3 Series,2020,Middle East,White,Petrol,Automatic,2.5,77516,96454,7481,High
+7 Series,2011,Europe,Grey,Diesel,Automatic,1.8,8470,34751,3267,Low
+X1,2012,North America,Red,Diesel,Automatic,3.4,94363,68280,8692,High
+X6,2022,South America,Black,Hybrid,Automatic,2.3,149946,115194,5588,Low
+5 Series,2011,Middle East,White,Hybrid,Automatic,4.1,40578,114408,3296,Low
+X6,2017,Middle East,White,Petrol,Automatic,4.9,80313,72206,3281,Low
+M5,2020,North America,Silver,Diesel,Manual,3.6,133819,36310,4602,Low
+X1,2012,Europe,Black,Petrol,Manual,2.4,189725,69761,7546,High
+3 Series,2015,Europe,Silver,Diesel,Manual,4,143587,99644,8802,High
+3 Series,2022,North America,Silver,Petrol,Automatic,2.8,105557,49305,5729,Low
+5 Series,2021,Middle East,Blue,Petrol,Automatic,3.5,44946,117090,2535,Low
+X5,2013,Europe,Black,Electric,Automatic,4.2,102867,80077,1178,Low
+3 Series,2020,Africa,Black,Petrol,Automatic,4.8,22293,94660,3567,Low
+3 Series,2024,Asia,Red,Diesel,Manual,2.3,167251,110665,5148,Low
+X6,2024,South America,Red,Hybrid,Manual,1.8,109666,72019,9980,High
+X6,2011,Middle East,Grey,Diesel,Automatic,4,27070,42419,9470,High
+3 Series,2022,North America,White,Electric,Automatic,3.1,98622,73745,1594,Low
+i3,2019,Middle East,Silver,Petrol,Automatic,2.8,62902,108850,2459,Low
+7 Series,2019,Asia,Black,Diesel,Automatic,3.4,109244,65041,6874,Low
+3 Series,2023,South America,Black,Petrol,Manual,3.7,114285,115180,4004,Low
+7 Series,2023,Asia,Red,Electric,Automatic,3.3,135738,49472,4910,Low
+3 Series,2022,North America,Black,Hybrid,Manual,4.1,108358,53352,3104,Low
+X3,2021,Europe,White,Hybrid,Manual,3.2,82314,79282,2269,Low
+7 Series,2023,Europe,Black,Diesel,Automatic,2.1,88178,32854,9894,High
+X6,2015,Asia,Blue,Diesel,Automatic,3.1,57359,61273,7320,High
+7 Series,2018,South America,Grey,Hybrid,Automatic,2.1,94348,89746,5964,Low
+X6,2011,Asia,Red,Hybrid,Automatic,1.8,20414,54266,9415,High
+i8,2016,Europe,Silver,Hybrid,Manual,4.5,62106,67280,8681,High
+X1,2020,Africa,White,Hybrid,Automatic,2.5,131887,44343,5740,Low
+X6,2014,South America,Red,Electric,Manual,3.9,115871,35339,1591,Low
+7 Series,2018,Europe,Grey,Petrol,Automatic,4.1,2308,103596,6387,Low
+5 Series,2019,North America,Red,Petrol,Manual,3.9,121314,108275,3528,Low
+i8,2010,Europe,Grey,Electric,Automatic,3.4,87691,75773,5901,Low
+M5,2020,North America,Black,Petrol,Manual,2.2,90617,112475,5386,Low
+M5,2021,South America,Silver,Petrol,Automatic,3.9,8047,77491,2747,Low
+M5,2012,Asia,Silver,Electric,Automatic,3.4,113583,94026,477,Low
+i3,2011,Europe,Silver,Electric,Automatic,2.7,149311,43541,3728,Low
+i8,2010,Asia,Red,Diesel,Automatic,3.6,116505,88135,7879,High
+X3,2010,Europe,Red,Diesel,Manual,1.7,71358,52176,5835,Low
+M3,2018,Africa,Red,Electric,Manual,2.7,110099,72959,8541,High
+M3,2015,North America,Silver,Diesel,Manual,2.9,44905,76589,6942,Low
+i3,2016,Asia,Grey,Diesel,Manual,2.6,141780,80276,4545,Low
+X6,2019,Africa,White,Petrol,Automatic,2.9,33988,100532,4812,Low
+X6,2011,Middle East,Silver,Hybrid,Automatic,3.6,194139,55623,3871,Low
+i3,2011,Europe,Black,Petrol,Manual,3.1,43922,69707,4074,Low
+X1,2018,South America,White,Petrol,Manual,4,34295,44559,230,Low
+5 Series,2018,South America,Grey,Diesel,Manual,3.8,5123,95904,4947,Low
+X1,2021,South America,Silver,Hybrid,Manual,2.4,110038,82750,7853,High
+5 Series,2018,Middle East,Black,Diesel,Automatic,5,19587,79744,1875,Low
+3 Series,2017,Middle East,Red,Electric,Automatic,2.7,23327,88146,9891,High
+7 Series,2012,Asia,White,Hybrid,Manual,1.6,71803,104505,845,Low
+i3,2024,North America,Silver,Diesel,Manual,4.7,87546,118008,9981,High
+7 Series,2023,Africa,White,Petrol,Automatic,2.6,141244,42292,8167,High
+X1,2018,Africa,Grey,Hybrid,Manual,3.7,23170,101080,6367,Low
+M5,2010,South America,White,Diesel,Automatic,2.8,60624,86861,8859,High
+M3,2021,Europe,Silver,Diesel,Automatic,2.3,83878,57741,5225,Low
+X1,2024,North America,Red,Diesel,Manual,3.5,1273,39471,4282,Low
+5 Series,2021,North America,White,Electric,Manual,2.2,113836,90005,4840,Low
+5 Series,2024,Asia,Black,Petrol,Automatic,3.6,138161,95227,7134,High
+5 Series,2022,Europe,Black,Petrol,Manual,3.7,48785,30409,2429,Low
+7 Series,2023,Asia,White,Diesel,Automatic,2.2,12718,101660,1933,Low
+X1,2023,North America,Silver,Hybrid,Manual,4.2,138920,83944,8877,High
+7 Series,2018,North America,Silver,Diesel,Manual,2,95460,111083,8427,High
+X6,2010,South America,Blue,Electric,Automatic,2.5,115360,56699,8826,High
+M5,2020,Middle East,Blue,Electric,Manual,3.9,143727,84009,432,Low
+M5,2020,Middle East,Silver,Petrol,Manual,2.8,5272,85048,6989,Low
+X5,2016,Asia,White,Petrol,Automatic,1.5,20715,94482,1671,Low
+M3,2019,Middle East,Black,Hybrid,Automatic,3.5,153919,117729,2900,Low
+X3,2010,North America,Silver,Diesel,Manual,4.5,133522,100002,3985,Low
+X3,2021,North America,Black,Electric,Automatic,2.2,72258,94139,1896,Low
+X3,2019,Africa,Red,Petrol,Automatic,4.9,199701,64956,3356,Low
+X3,2019,Africa,Red,Petrol,Manual,2.8,178545,37736,3188,Low
+X6,2020,South America,Black,Hybrid,Manual,4.3,154049,44827,7119,High
+X5,2021,Europe,Silver,Diesel,Automatic,4.9,46477,119954,9373,High
+X1,2016,Middle East,Grey,Petrol,Manual,3.7,27743,50351,9042,High
+3 Series,2014,Europe,Black,Petrol,Automatic,3.8,17698,119307,7556,High
+3 Series,2024,Africa,Grey,Diesel,Manual,2.3,159196,73099,9537,High
+3 Series,2011,South America,Red,Diesel,Manual,3.7,55849,77871,2643,Low
+i8,2018,Asia,Blue,Hybrid,Automatic,4.4,140198,58206,7497,High
+X3,2023,North America,Grey,Electric,Automatic,2.6,137256,32190,9904,High
+i8,2022,Europe,Grey,Diesel,Manual,4.3,40984,34053,2205,Low
+7 Series,2011,Europe,Silver,Hybrid,Manual,1.7,153868,35563,2543,Low
+X3,2017,North America,White,Diesel,Manual,1.6,8543,46004,6774,Low
+M5,2021,North America,Black,Diesel,Manual,4.9,121181,49602,6340,Low
+X1,2012,Africa,White,Diesel,Manual,3.9,39789,63406,5767,Low
+7 Series,2012,Middle East,Silver,Diesel,Manual,3.6,126603,72496,7167,High
+X6,2017,North America,Blue,Hybrid,Automatic,1.8,15746,51982,9181,High
+X5,2021,Middle East,Blue,Hybrid,Automatic,2.9,76949,119270,5542,Low
+M5,2020,Africa,Silver,Electric,Manual,1.8,117770,70484,6616,Low
+X5,2014,Europe,Silver,Electric,Manual,2,189276,92994,3719,Low
+5 Series,2024,Africa,White,Petrol,Manual,3.9,24438,99840,899,Low
+7 Series,2011,Middle East,Silver,Electric,Manual,3.7,155677,106109,7942,High
+i8,2015,Asia,Red,Petrol,Automatic,2.7,118852,46474,4020,Low
+7 Series,2010,Europe,Black,Electric,Manual,3.8,165024,81915,5972,Low
+i3,2010,Europe,White,Diesel,Automatic,3,11426,59816,9570,High
+X6,2013,North America,Red,Diesel,Automatic,4.8,79518,82658,9613,High
+i3,2010,Africa,Red,Petrol,Manual,2.1,72264,58842,4601,Low
+M3,2015,South America,Grey,Diesel,Manual,3.4,159472,119209,8126,High
+X6,2012,South America,Black,Diesel,Manual,3.4,40022,44588,3535,Low
+M5,2018,Europe,Red,Petrol,Manual,3.7,99696,88925,949,Low
+i3,2011,Europe,Black,Petrol,Manual,4.5,6187,78227,6899,Low
+5 Series,2014,Middle East,Grey,Petrol,Manual,4.4,99740,80377,2477,Low
+X5,2010,Middle East,Blue,Petrol,Automatic,3.1,153895,51061,2710,Low
+X3,2011,North America,Black,Hybrid,Automatic,3.2,144217,67936,7316,High
+i8,2021,Europe,Red,Diesel,Automatic,4.2,174545,77348,4371,Low
+M5,2021,South America,Grey,Hybrid,Automatic,3.3,197771,85664,9965,High
+7 Series,2013,Asia,White,Electric,Automatic,3.6,179982,85237,5930,Low
+X6,2024,Europe,White,Diesel,Automatic,3.4,24214,62124,3523,Low
+X1,2020,South America,Silver,Petrol,Automatic,4.8,168607,64501,7138,High
+X3,2013,South America,Blue,Hybrid,Manual,2.7,119268,51384,879,Low
+i3,2022,Europe,Red,Hybrid,Automatic,3.9,133018,37656,3440,Low
+M3,2017,Europe,White,Electric,Manual,3.2,61053,44741,5121,Low
+X6,2018,Europe,Silver,Diesel,Automatic,3.7,140614,80589,1223,Low
+i3,2014,Europe,Grey,Electric,Automatic,4.7,13828,35365,3971,Low
+X5,2019,South America,Silver,Petrol,Manual,4.2,54964,76865,463,Low
+i8,2015,Asia,Silver,Petrol,Manual,3.5,185196,40826,3672,Low
+7 Series,2013,North America,Red,Diesel,Manual,3.5,107734,103750,7541,High
+3 Series,2015,Europe,Blue,Petrol,Automatic,2.7,108434,85291,3171,Low
+M3,2023,North America,Silver,Hybrid,Manual,4.7,26402,35130,9240,High
+X6,2016,South America,Blue,Petrol,Manual,2.5,137290,52670,654,Low
+i8,2022,South America,Blue,Diesel,Manual,4.3,20003,94084,9637,High
+X3,2022,North America,Silver,Hybrid,Manual,3.8,128059,79145,8045,High
+i3,2022,South America,Silver,Petrol,Manual,3.6,54399,69653,4544,Low
+X5,2015,Africa,Grey,Electric,Manual,2.2,117520,48837,7908,High
+i3,2010,Africa,White,Petrol,Manual,3.7,190724,87678,1421,Low
+i8,2018,Asia,Silver,Electric,Automatic,3.2,94023,81426,9065,High
+X5,2012,Middle East,Grey,Electric,Automatic,2.5,132458,35936,9637,High
+7 Series,2017,North America,White,Petrol,Automatic,3.4,90471,101907,8626,High
+5 Series,2011,Middle East,White,Electric,Automatic,1.8,18598,109999,7709,High
+X3,2013,South America,Grey,Hybrid,Manual,2.2,158028,92712,9864,High
+M5,2022,Europe,Grey,Hybrid,Automatic,3.6,112178,87966,7148,High

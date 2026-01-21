@@ -1,0 +1,142 @@
+---
+title: "BMW Interactive Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    theme: spacelab
+---
+
+```{r setup, include=FALSE}
+# -----------------------------------------------------------------------------
+# 1. SETTINGS & LIBRARIES
+# -----------------------------------------------------------------------------
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(crosstalk)
+library(DT)
+
+# -----------------------------------------------------------------------------
+# 2. LOAD & PREPARE DATA
+# -----------------------------------------------------------------------------
+# Check if sampled data exists, otherwise load full data
+if (file.exists("bmw_sales_sampled.csv")) {
+  bmw_data <- read_csv("bmw_sales_sampled.csv")
+} else {
+  bmw_data <- read_csv("BMW sales data (2010-2024).csv")
+}
+
+# Clean and format data
+bmw_clean <- bmw_data %>%
+  distinct() %>%
+  mutate(
+    Year = as.integer(Year),
+    Region = as.factor(Region),
+    Fuel_Type = as.factor(Fuel_Type),
+    Transmission = as.factor(Transmission),
+    Model = as.factor(Model)
+  ) %>%
+  drop_na()
+
+# -----------------------------------------------------------------------------
+# 3. SHARED DATA (LINKING ENGINE)
+# -----------------------------------------------------------------------------
+sd <- SharedData$new(bmw_clean)
+
+```
+
+# Sidebar {.sidebar}
+
+### Filters
+
+```{r}
+# --- FILTERS ---
+filter_select("region", "Region:", sd, ~Region)
+filter_checkbox("fuel", "Fuel Type:", sd, ~Fuel_Type, inline = TRUE)
+filter_slider("year", "Year:", sd, ~Year, step = 1, sep = "")
+filter_slider("price", "Price (USD):", sd, ~Price_USD)
+
+```
+
+# Dashboard {data-height=600}
+
+### Price vs. Mileage (Interactive: Brush to Filter) {data-width=600}
+
+```{r}
+# --- SCATTER PLOT ---
+plot_ly(sd, x = ~Mileage_KM, y = ~Price_USD, 
+        color = ~Fuel_Type, colors = "Set1",
+        text = ~paste("Model:", Model, 
+                      "<br>Year:", Year, 
+                      "<br>Price: $", Price_USD),
+        hoverinfo = "text",
+        type = 'scatter', 
+        mode = 'markers',
+        height = 550) %>% 
+  layout(
+    title = "Price vs. Mileage Analysis",
+    xaxis = list(title = "Mileage (KM)"),
+    yaxis = list(title = "Price (USD)"),
+    dragmode = "select"
+  )
+
+```
+
+### Market Insights {data-width=400}
+
+```{r}
+# --- BAR CHART 1 ---
+p1 <- plot_ly(sd, x = ~Region, 
+        color = I("#2c3e50"), 
+        stroke = I("white"),
+        type = "histogram") %>%
+  layout(
+    title = "Sales Volume by Region",
+    yaxis = list(title = "Count"),
+    xaxis = list(title = ""),
+    showlegend = FALSE
+  )
+
+# --- BAR CHART 2 ---
+p2 <- plot_ly(sd, x = ~Transmission, 
+        color = ~Transmission, 
+        colors = "Pastel2", 
+        type = "histogram") %>%
+  layout(
+    title = "Transmission Preference",
+    yaxis = list(title = "Count"),
+    xaxis = list(title = ""),
+    showlegend = FALSE
+  )
+
+# Stack the two charts
+subplot(p1, p2, nrows = 2, margin = 0.06, titleY = TRUE)
+
+```
+
+# Dataset Table {data-height=800}
+
+### Detailed Data View
+
+```{r}
+# --- DATA TABLE ---
+datatable(sd, 
+          rownames = FALSE,
+          extensions = 'Scroller',
+          options = list(
+            deferRender = TRUE, 
+            # Force the scroll area to be responsive to the window height
+            scrollY = "100vh", 
+            scroller = TRUE,
+            dom = 't', 
+            stripe = TRUE,
+            width = "100%"
+          ),
+          colnames = c("Model", "Year", "Region", "Color", "Fuel", "Trans", "Engine", "Miles", "Price", "Vol", "Class")
+)
+
+```
+
