@@ -3,7 +3,7 @@
 This project is an interactive analytics dashboard built with **R**, **Flexdashboard**, and **Plotly**. It visualizes BMW sales data (2010-2024), allowing users to explore market trends, price depreciation, and regional preferences through **brushing and linking**.
 
 ## 🚀 Live Demo
-*(Once you host it, paste your GitHub Pages link here, e.g., https://yourusername.github.io/bmw-dashboard/)*
+https://leonardo-maxim-krischker.github.io/VDS-Dashboard/
 
 ---
 
@@ -83,6 +83,8 @@ This project is designed to be hosted for free on GitHub Pages.
 
 This project is for educational purposes.
 
-```
+---
 
-```
+## 📝 AI Usage
+
+This README.md file has been created using AI.
