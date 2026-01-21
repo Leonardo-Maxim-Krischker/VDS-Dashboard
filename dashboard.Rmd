@@ -43,12 +43,18 @@ bmw_clean <- bmw_data %>%
     Transmission = as.factor(Transmission),
     Model = as.factor(Model)
   ) %>%
-  drop_na()
+  drop_na() %>%
+  # --- CRITICAL FIX: SORT BY YEAR ---
+  # This ensures the line chart draws smoothly from left to right
+  arrange(Year)
 
 # -----------------------------------------------------------------------------
 # 3. SHARED DATA (LINKING ENGINE)
 # -----------------------------------------------------------------------------
 sd <- SharedData$new(bmw_clean)
+
+# Define a color-blind safe blue for single-color charts
+safe_blue <- "#0072B2"
 
 ```
 
@@ -65,14 +71,16 @@ filter_slider("price", "Price (USD):", sd, ~Price_USD)
 
 ```
 
-# Dashboard {data-height=600}
+# Row {data-height=600}
 
-### Price vs. Mileage (Interactive: Brush to Filter) {data-width=600}
+### Price vs. Mileage (Color: Fuel Type) {data-width=600}
 
 ```{r}
 # --- SCATTER PLOT ---
+# Using "Dark2" palette for accessibility
 plot_ly(sd, x = ~Mileage_KM, y = ~Price_USD, 
-        color = ~Fuel_Type, colors = "Set1",
+        color = ~Fuel_Type, 
+        colors = "Dark2", 
         text = ~paste("Model:", Model, 
                       "<br>Year:", Year, 
                       "<br>Price: $", Price_USD),
@@ -84,7 +92,12 @@ plot_ly(sd, x = ~Mileage_KM, y = ~Price_USD,
     title = "Price vs. Mileage Analysis",
     xaxis = list(title = "Mileage (KM)"),
     yaxis = list(title = "Price (USD)"),
-    dragmode = "select"
+    dragmode = "select",
+    
+    showlegend = TRUE,
+    legend = list(
+      itemsizing = "constant" 
+    )
   )
 
 ```
@@ -92,11 +105,15 @@ plot_ly(sd, x = ~Mileage_KM, y = ~Price_USD,
 ### Market Insights {data-width=400}
 
 ```{r}
-# --- BAR CHART 1 ---
+# --- CHART 1: Region ---
 p1 <- plot_ly(sd, x = ~Region, 
-        color = I("#2c3e50"), 
+        color = I(safe_blue), 
         stroke = I("white"),
-        type = "histogram") %>%
+        type = "histogram",
+        # FIX: Explicitly define what the tooltip shows
+        # %{x} = Region Name, %{y} = The calculated Count
+        # <extra></extra> hides the annoying "trace 0" label
+        hovertemplate = "<b>%{x}</b><br>Units: %{y}<extra></extra>") %>%
   layout(
     title = "Sales Volume by Region",
     yaxis = list(title = "Count"),
@@ -104,11 +121,13 @@ p1 <- plot_ly(sd, x = ~Region,
     showlegend = FALSE
   )
 
-# --- BAR CHART 2 ---
+# --- CHART 2: Transmission ---
 p2 <- plot_ly(sd, x = ~Transmission, 
-        color = ~Transmission, 
-        colors = "Pastel2", 
-        type = "histogram") %>%
+        color = I(safe_blue), 
+        stroke = I("white"),
+        type = "histogram",
+        # FIX: Same tooltip fix here
+        hovertemplate = "<b>%{x}</b><br>Units: %{y}<extra></extra>") %>%
   layout(
     title = "Transmission Preference",
     yaxis = list(title = "Count"),
@@ -116,31 +135,30 @@ p2 <- plot_ly(sd, x = ~Transmission,
     showlegend = FALSE
   )
 
-# Stack the two charts
-subplot(p1, p2, nrows = 2, margin = 0.06, titleY = TRUE)
+# --- CHART 3: Yearly Trend (Dynamic Line) ---
+p3 <- plot_ly(sd, x = ~Year, y = ~Price_USD, 
+        type = 'scatter', 
+        mode = 'lines+markers', 
+        line = list(color = safe_blue, width = 3),
+        # FIX: Even though we pass 'Price_USD' as y, the transform changes it to 'count'.
+        # %{y} in the tooltip will now correctly show the Count, not the Price.
+        hovertemplate = "<b>Year: %{x}</b><br>Sales: %{y}<extra></extra>",
+        transforms = list(
+          list(
+            type = 'aggregate',
+            groups = ~Year,
+            aggregations = list(
+              list(target = 'y', func = 'count', enabled = TRUE)
+            )
+          )
+        )) %>%
+  layout(
+    title = "Sales Trend (Selection)",
+    yaxis = list(title = "Units Sold"),
+    xaxis = list(title = "Year", tickformat = "d"),
+    showlegend = FALSE
+  )
 
+# Stack the 3 charts
+subplot(p1, p2, p3, nrows = 3, margin = 0.05, titleY = TRUE)
 ```
-
-# Dataset Table {data-height=800}
-
-### Detailed Data View
-
-```{r}
-# --- DATA TABLE ---
-datatable(sd, 
-          rownames = FALSE,
-          extensions = 'Scroller',
-          options = list(
-            deferRender = TRUE, 
-            # Force the scroll area to be responsive to the window height
-            scrollY = "100vh", 
-            scroller = TRUE,
-            dom = 't', 
-            stripe = TRUE,
-            width = "100%"
-          ),
-          colnames = c("Model", "Year", "Region", "Color", "Fuel", "Trans", "Engine", "Miles", "Price", "Vol", "Class")
-)
-
-```
-
