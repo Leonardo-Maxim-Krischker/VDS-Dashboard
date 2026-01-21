@@ -5,6 +5,10 @@ output:
     orientation: rows
     vertical_layout: fill
     theme: spacelab
+knit: (function(inputFile, encoding) { 
+      rmarkdown::render(inputFile, 
+                        encoding = encoding, 
+                        output_file = "index.html") })
 ---
 
 ```{r setup, include=FALSE}
